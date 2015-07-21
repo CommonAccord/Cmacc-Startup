@@ -1,6 +1,6 @@
 Model.Root={NDA}
 
-=[BeBound/BB_Blocks]
+=[NDA/BB_Blocks.md]
 
 Company={P1.Nom}
 Co.Description={P1.Description}
