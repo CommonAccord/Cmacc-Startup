@@ -1,11 +1,12 @@
-DocBody=<!DOCTYPE html><html><title>{PageName}</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: upper-roman;} ol ol ol {list-style-type: upper-alpha;} ol ol ol ol {list-style-type: decimal;} ol ol ol ol ol {list-style-type: lower-alpha;} ol ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol ol ol ol {list-style-type: decimal;}</style><body>{Doc}
+DocBody=<!DOCTYPE html><html><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol ol ol ol ol (Curly-)list-style-type: decimal;(-Curly)</style><body>{Doc}
 
 PageName=Startup/Techstars/Form/Techstars_SeriesAA_Incorp.01.md
 
-Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
+Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
+
+0.Ti=</i>
 
 0.sec={F1.Name.Full} hereby certifies that:
-
 
 1.sec=The original name of this company is [NEWCO, INC.]. and the date of filing the original Certificate of Incorporation of this company with the Secretary of State of the State of Delaware was [December 12, 2010].
 
@@ -188,11 +189,11 @@ Note=Something odd about the "; and" here:
 
 3.4.4.5.8.5.90.sec=References to Common Stock in the subsections of this clause (v) above shall mean all shares of Common Stock issued by the Company or deemed to be issued pursuant to this Section 5(h).  The "Effective Price" of Additional Shares of Common Stock shall mean the quotient determined by dividing the total number of Additional Shares of Common Stock issued or sold, or deemed to have been issued or sold by the Company under this Section 5(h), into the Aggregate Consideration received, or deemed to have been received by the Company for such issue under this Section 5(h), for such Additional Shares of Common Stock.  In the event that the number of shares of Additional Shares of Common Stock or the Effective Price cannot be ascertained at the time of issuance, such Additional Shares of Common Stock shall be deemed issued immediately upon the occurrence of the first event that makes such number of shares or the Effective Price, as applicable, ascertainable.
 
-3.4.4.5.8.5.=[Bit/Ssec_07]
+3.4.4.5.8.5.=[Z/Sec/s7]
 
 3.4.4.5.8.6.sec=In the event that the Company issues or sells, or is deemed to have issued or sold, Additional shares of Common Stock in a Qualifying Dilutive Issuance (the "First Dilutive Issuance"), then in the event that the Company issues or sells, or is deemed to have issued or sold, Additional Shares of Common Stock in a Qualifying Dilutive Issuance other than the First Dilutive Issuance as a part of the same transaction or series of related transactions as the First Dilutive Issuance (a "Subsequent Dilutive Issuance"), then and in each such case upon a Subsequent Dilutive Issuance the Series Preferred Conversion Price shall be reduced to the Series Preferred Conversion Price that would have been in effect had the First Dilutive Issuance and each Subsequent Dilutive Issuance all occurred on the closing date of the First Dilutive Issuance.
 
-3.4.4.5.8.=[Bit/Ssec_06]
+3.4.4.5.8.=[Z/Sec/s6]
 
 3.4.4.5.9.Ti=Certificate of Adjustment
 
@@ -255,7 +256,7 @@ Note=Something odd about the "; and" here:
 
 3.6.=[Z/Sec/s3]
 
-3.=[Bit/Ssec_06]
+3.=[Z/Sec/s6]
 
 4.sec=This Amended and Restated Certificate of Incorporation has been duly approved by the Board.
 
@@ -266,4 +267,4 @@ Note=Something odd about the "; and" here:
 90.2.sec={Co.Sign.Block}
 
 
-=[Bit/Ssec_05]
+=[Z/Sec/s5]

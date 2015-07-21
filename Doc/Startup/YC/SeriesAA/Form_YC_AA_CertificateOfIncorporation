@@ -1,4 +1,4 @@
-Heading.Sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
+Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 1.sec=The name of the Corporation is {Co.Name.Full}.
 
@@ -28,7 +28,7 @@ Heading.Sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.1.7.Sec="<strong>Recapitalization</strong>" shall mean any stock dividend, stock split, combination of shares, reorganization, recapitalization, reclassification or other similar event.
 
-5.1.=[Bit/Sec_07]
+5.1.=[Z/Sec/7]
 
 5.2.Ti=Liquidation Rights
 
@@ -60,7 +60,7 @@ Heading.Sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.2.5.=[Z/Sec/s2]
 
-5.2.=[Bit/Sec_05]
+5.2.=[Z/Sec/5]
 
 5.3.Ti=Conversion
 
@@ -114,7 +114,7 @@ Heading.Sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.3.9.sec=The Corporation shall at all times reserve and keep available out of its authorized but unissued shares of Common Stock solely for the purpose of effecting the conversion of the shares of the Preferred Stock, such number of its shares of Common Stock as shall from time to time be sufficient to effect the conversion of all then outstanding shares of the Preferred Stock; and if at any time the number of authorized but unissued shares of Common Stock shall not be sufficient to effect the conversion of all then outstanding shares of the Preferred Stock, the Corporation will take such corporate action as may, in the opinion of its counsel, be necessary to increase its authorized but unissued shares of Common Stock to such number of shares as shall be sufficient for such purpose.
 
-5.3.=[Bit/Sec_09]
+5.3.=[Z/Sec/9]
 
 5.4.Ti=Voting
 
@@ -150,7 +150,7 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 
 5.4.6.sec=Each holder of shares of Common Stock shall be entitled to one vote for each share thereof held.
 
-5.4.=[Bit/Sec_06]
+5.4.=[Z/Sec/6]
 
 5.5.Ti=Amendments and Changes
 
@@ -170,7 +170,7 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 
 5.7.sec=Any notice required by the provisions of this {5.Xref} to be given to the holders of Preferred Stock shall be deemed given if deposited in the United States mail, postage prepaid, and addressed to each holder of record at such holder's address appearing on the books of the Corporation.
 
-5.=[Bit/Sec_07]
+5.=[Z/Sec/7]
 
 6.sec=The Corporation is to have perpetual existence.
 
@@ -191,7 +191,7 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 11.sec=Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws may provide. The books of the Corporation may be kept (subject to any provision contained in the statutes) outside of the State of Delaware at such place or places as may be designated from time to time by the Board of Directors or in the Bylaws of the Corporation.</li>
 
 
-=[Bit/Sec_11]
+=[Z/Sec/11]
 
 xlist={Blist}
 

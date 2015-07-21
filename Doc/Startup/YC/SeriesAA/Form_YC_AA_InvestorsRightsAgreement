@@ -1,5 +1,6 @@
-Ti={Co.Name.Full} Investors' Rights Agreement
+Doc.Title={Co.Name.Full} Investors' Rights Agreement
 
+0.Ti=</i>
 0.0.sec=This Investors' Rights Agreement (this "<strong>Agreement</strong>") is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the "<strong>Company</strong>") and the persons and entities (each, an "<strong>Investor</strong>" and collectively, the "<strong>Investors</strong>") listed on <u>Exhibit A</u> hereto.  Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.
 
 0.1.sec=<strong>WHEREAS</strong>: The Investors are parties to the Series AA Preferred Stock Purchase Agreement of even date herewith, among the Company and the Investors listed on the Schedule of Investors thereto (the "<strong>Purchase Agreement</strong>"), and it is a condition to the closing of the sale of the Series AA Preferred Stock (the "<strong>Shares</strong>") that the Investors and the Company execute and deliver this Agreement.
@@ -8,7 +9,7 @@ Ti={Co.Name.Full} Investors' Rights Agreement
 
 /Note=this is a bit fiddly.  Need to improve the Sec_0x approach.
 
-0.=[Bit/Sec_01]
+0.=[Z/Sec/1]
 
 0.Sec={0.sec}
 
@@ -44,7 +45,7 @@ Ti={Co.Name.Full} Investors' Rights Agreement
 
 1.1.11.sec=any right, option or warrant to acquire any security convertible into the securities excluded from the definition of New Securities pursuant to subsections (i) through (x) above
 
-1.1.=[Bit/Ssec_11]
+1.1.=[Z/Sec/s11]
 
 1.1.xlist={1.1.alist}
 
@@ -133,7 +134,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 3.3.sec=Each Holder hereby agrees that such Holder shall not sell or otherwise transfer, make any short sale of, grant any option for the purchase of, or enter into any hedging or similar transaction with the same economic effect as a sale, of any Common Stock (or other securities) of the Company held by such Holder (other than those included in the registration) during the one hundred eighty (180) day period following the effective date of a registration statement of the Company filed under the Securities Act (or such other period as may be requested by the Company or an underwriter to accommodate regulatory restrictions on (i) the publication or other distribution of research reports and (ii) analyst recommendations and opinions, including, but not limited to, the restrictions contained in NASD Rule 2711(f)(4) or NYSE Rule 472(f)(4), or any successor provisions or amendments thereto), provided that: all officers and directors of the Company and holders of at least one percent (1%) of the Company's voting securities are bound by and have entered into similar agreements. The obligations described in this Section {3.3} shall not apply to a registration relating solely to employee benefit plans on Form S-l or Form S-8 or similar forms that may be promulgated in the future, or a registration relating solely to a transaction on Form S-4 or similar forms that may be promulgated in the future.  The Company may impose stop-transfer instructions and may stamp each such certificate with the second legend set forth in Section {4.1(c)} hereof with respect to the shares of Common Stock (or other securities) subject to the foregoing restriction until the end of such one hundred eighty (180) day (or other) period.  Each Holder agrees to execute a market standoff agreement with said underwriters in customary form consistent with the provisions of this Section {3.3}.
 
-3.=[Bit/Sec_03]
+3.=[Z/Sec/3]
 
 4.Ti=Definitions
 
@@ -151,7 +152,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 4.6.sec="<strong>Securities Act</strong>" shall mean the Securities Act of 1933, as amended, or any similar successor federal statute and the rules and regulations thereunder, all as the same shall be in effect from time to time.
 
-4.=[Bit/Ssec_06]
+4.=[Z/Sec/s6]
 
 5.Ti=Miscellaneous
 
@@ -224,9 +225,9 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.12.sec=In the event of any conflict between the terms of this Agreement and the Company's Certificate of Incorporation or its Bylaws, the terms of the Company's Certificate of Incorporation or its Bylaws, as the case may be, will control.
 
-5.=[Bit/Sec_12]
+5.=[Z/Sec/12]
 
-=[Bit/Sec_05]
+=[Z/Sec/5]
 
 DocBody={Doc}
 

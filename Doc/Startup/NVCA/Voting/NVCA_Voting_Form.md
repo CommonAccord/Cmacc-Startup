@@ -1,4 +1,6 @@
-Ti=AMENDED AND RESTATED VOTING AGREEMENT
+Doc.Title=AMENDED AND RESTATED VOTING AGREEMENT
+
+Ti=</i>
 
 0.0.sec=THIS [AMENDED AND RESTATED] VOTING AGREEMENT (this “Agreement”), is made and entered into as of this [__] day of [_____, 20___,] by and among [_____], a [Delaware] corporation (the “Company”), each holder of the Company’s Series A Preferred Stock, [$.___] par value per share (“Series A Preferred Stock”) [and Series [__] Preferred Stock] (referred to herein [collectively with the Series A Preferred Stock,] as the “Preferred Stock”) listed on Schedule A (together with any subsequent investors, or transferees, who become parties hereto as “Investors” pursuant to Subsections 7.1(a) or 7.2below, the “Investors”), and those certain stockholders of the Company [and holders of options to acquire shares of the capital stock of the Company] listed on Schedule B (together with any subsequent stockholders [or option holders], or any transferees, who become parties hereto as “Key Holders” pursuant to Subsection[s 7.1(b) or] 7.2 below, the “Key Holders,” and together collectively with the Investors, the “Stockholders”).
 
@@ -118,7 +120,7 @@ Note=is there a bug in Sec_01 ??
 
 3.2.7.sec= (g)	in the event that the Selling Investors, in connection with such Sale of the Company, appoint a stockholder representative (the “Stockholder Representative”) with respect to matters affecting the Stockholders under the applicable definitive transaction agreements following consummation of such Sale of the Company, (x) to consent to (i) the appointment of such Stockholder Representative, (ii) the establishment of any applicable escrow, expense or similar fund in connection with any indemnification or similar obligations, and (iii) the payment of such Stockholder’s pro rata portion (from the applicable escrow or expense fund or otherwise) of any and all reasonable fees and expenses to such Stockholder Representative in connection with such Stockholder Representative’s services and duties in connection with such Sale of the Company and its related service as the representative of the Stockholders, and (y) not to assert any claim or commence any suit against the Stockholder Representative or any other Stockholder with respect to any action or inaction taken or failed to be taken by the Stockholder Representative in connection with its service as the Stockholder Representative, absent fraud or willful misconduct.
 
-3.2.=[Bit/Ssec_07]
+3.2.=[Z/Sec/s7]
 
 3.3.Ti=Exceptions
 
@@ -136,7 +138,7 @@ Note=is there a bug in Sec_01 ??
 
 3.3.6.sec=(f)	[subject to clause (e) above, requiring the same form of consideration to be available to the holders of any single class or series of capital stock, if any holders of any capital stock of the Company are given an option as to the form and amount of consideration to be received as a result of the Proposed Sale, all holders of such capital stock will be given the same option; provided, however, that nothing in this Subsection 3.3(f) shall entitle any holder to receive any form of consideration that such holder would be ineligible to receive as a result of such holder’s failure to satisfy any condition, requirement or limitation that is generally applicable to the Company’s stockholders.
 
-3.3.=[Bit/Ssec_06]
+3.3.=[Z/Sec/s6]
 
 3.4.Ti=Restrictions on Sales of Control of the Company
 

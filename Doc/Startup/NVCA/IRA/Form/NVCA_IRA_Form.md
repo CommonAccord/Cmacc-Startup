@@ -1,4 +1,6 @@
-Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
+Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
+
+0.Ti=</i>
 
 0.0.sec=THIS {Ti} (this “Agreement”), is made as of the [__] day of [___________, 20__], by and among [________], a [Delaware] corporation (the “Company”), [and] each of the investors listed on Schedule A hereto, each of which is referred to in this Agreement as an “Investor”[,and each of the stockholders listed on Schedule B hereto, each of whom is referred to herein as a “Key Holder”] [and any Additional Purchaser (as defined in the Purchase Agreement) that becomes a party to this Agreement in accordance with Section 6.9 hereof].
 
@@ -96,7 +98,7 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 1.31.sec=“Series A Preferred Stock” means shares of the Company’s Series A Preferred Stock, par value [$0.___] per share.
 
-1.=[Bit/Ssec_31]
+1.=[Z/Sec/s31]
 
 2.Ti=Registration Rights
 
@@ -112,7 +114,8 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.1.3.sec=(c)	Notwithstanding the foregoing obligations, if the Company furnishes to Holders requesting a registration pursuant to this Subsection 2.1 a certificate signed by the Company’s chief executive officer stating that in the good faith judgment of the Company’s Board of Directors it would be materially detrimental to the Company and its stockholders for such registration statement to either become effective or remain effective for as long as such registration statement otherwise would be required to remain effective, because such action would (i) materially interfere with a significant acquisition, corporate reorganization, or other similar transaction involving the Company; (ii) require premature disclosure of material information that the Company has a bona fide business purpose for preserving as confidential; or (iii) render the Company unable to comply with requirements under the Securities Act or Exchange Act, then the Company shall have the right to defer taking action with respect to such filing[, and any time periods with respect to filing or effectiveness thereof shall be tolled correspondingly,] for a period of not more than [thirty (30) - one hundred twenty (120)] days after the request of the Initiating Holders is given; provided, however, that the Company may not invoke this right more than [once] in any twelve (12) month period[; and provided further that the Company shall not register any securities for its own account or that of any other stockholder during such [thirty (30) - one hundred twenty (120)] day period other than [an Excluded Registration] [Alternative: pursuant to a registration relating to the sale of securities to employees of the Company or a subsidiary pursuant to a stock option, stock purchase, or similar plan; a registration on any form that does not include substantially the same information as would be required to be included in a registration statement covering the sale of the Registrable Securities; or a registration in which the only Common Stock being registered is Common Stock issuable upon conversion of debt securities that are also being registered].
 
-2.1.4.sec=(d)	The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(a)(i) during the period that is [sixty (60)] days before the Company’s good faith estimate of the date of filing of, and ending on a date that is [one hundred eighty (180)] days after the effective date of, a Company-initiated registration, provided that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; (ii) after the Company has effected [one  - two] registration[s] pursuant to Subsection 2.1(a); or (iii) if the Initiating Holders propose to dispose of shares of Registrable Securities that may be immediately registered on Form S-3 pursuant to a request made pursuant to Subsection 2.1(b).  The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(b) (i) during the period that is [thirty (30)] days before the Company’s good faith estimate of the date of filing of, and ending on a date that is [ninety (90)] days after the effective date of, a Company-initiated registration, provided that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; or (ii) if the Company has effected [two] registration[s] pursuant to Subsection 2.1(b) within the twelve (12) month period immediately preceding the date of such request.  A registration shall not be counted as “effected” for purposes of this Subsection 2.1(d) until such time as the applicable registration statement has been declared effective by the SEC, unless the Initiating Holders withdraw their request for such registration, elect not to pay the registration expenses therefor, and forfeit their right to one demand registration statement pursuant to Subsection 2.6, in which case such withdrawn registration statement shall be counted as “effected” for purposes of this Subsection 2.1(d). 
+2.1.4.sec=(d)	The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(a)(i) during the period that is [sixty (60)] days before the Company’s good faith estimate of the date of filing of, and ending on a date that is [one hundred eighty (180)] days after the effective date of, a Company-initiated registration, provided that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; (ii) after the Company has effected [one  - two] registration[s] pursuant to Subsection 2.1(a); or (iii) if the Initiating Holders propose to dispose of shares of Registrable Securities that may be immediately registered on Form S-3 pursuant to a request made pursuant to Subsection 2.1(b).  The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(b) (i) during the period that is [thirty (30)] days before the Company’s good faith estimate of the date of filing of, and ending on a date that is [ninety (90)] days after the effective date of, a Company-initiated registration, provided that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; or (ii) if the Company has effected [two] registration[s] pursuant to Subsection 2.1(b) within the twelve (12) month period immediately preceding the date of such request.  A registration shall not be counted as “effected” for purposes of this Subsection 2.1(d) until such time as the applicable registration statement has been declared effective by the SEC, unless the Initiating Holders withdraw their request for such registration, elect not to pay the registration expenses therefor, and forfeit their right to one demand registration statement pursuant to Subsection 2.6, in which case such withdrawn registration statement shall be counted as “effected” for purposes of this Subsection 2.1(d).
+
 2.1.=[Z/Sec/s4]
 
 2.2.Ti=Company Registration
@@ -155,7 +158,7 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.4.90.sec=In addition, the Company shall ensure that, at all times after any registration statement covering a public offering of securities of the Company under the Securities Act shall have become effective, its insider trading policy shall provide that the Company’s directors may implement a trading program under Rule 10b5-1 of the Exchange Act.
 
-2.4.=[Bit/Ssec_10]
+2.4.=[Z/Sec/10]
 
 2.5.Ti=Furnish Information
 
@@ -185,7 +188,7 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.8.6.sec=(f)	Unless otherwise superseded by an underwriting agreement entered into in connection with the underwritten public offering, the obligations of the Company and Holders under this Subsection 2.8 shall survive the completion of any offering of Registrable Securities in a registration under this Section 2, and otherwise shall survive the termination of this Agreement. 
 
-2.8.=[Bit/Ssec_06]
+2.8.=[Z/Sec/s6]
 
 2.9.Ti=Reports Under Exchange Act
 
@@ -261,7 +264,7 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 3.1.90.sec=If, for any period, the Company has any subsidiary whose accounts are consolidated with those of the Company, then in respect of such period the financial statements delivered pursuant to the foregoing sections shall be the consolidated and consolidating financial statements of the Company and all such consolidated subsidiaries.<br>Notwithstanding anything else in this Subsection 3.1 to the contrary, the Company may cease providing the information set forth in this Subsection 3.1 during the period starting with the date [thirty - sixty (30-60)] days before the Company’s good-faith estimate of the date of filing of a registration statement if it reasonably concludes it must do so to comply with the SEC rules applicable to such registration statement and related offering; provided that the Company’s covenants under this Subsection 3.1 shall be reinstated at such time as the Company is no longer actively employing its commercially reasonable efforts to cause such registration statement to become effective.
 
-3.1.=[Bit/Ssec_07]
+3.1.=[Z/paras/s7]
 
 3.2.Ti=Inspection
 
@@ -296,9 +299,11 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 4.1.5.sec=(e)	[The right of first offer set forth in this Subsection 4.1 shall terminate with respect to any Major Investor who fails to purchase, in any transaction subject to this Subsection 4.1, all of such Major Investor’s pro rata amount of the New Securities allocated (or, if less than such Major Investor’s pro rata amount is offered by the Company, such lesser amount so offered) to such Major Investor pursuant to this Subsection 4.1.  Following any such termination, such Investor shall no longer be deemed a “Major Investor” for any purpose of this Subsection 4.1]  
 
-4.1.6.sec=(f)	[Notwithstanding any provision hereof to the contrary, in lieu of complying with the provisions of this Subsection 4.1, the Company may elect to give notice to the Major Investors within thirty (30) days after the issuance of New Securities.  Such notice shall describe the type, price, and terms of the New Securities.  Each Major Investor shall have twenty (20) days from the date notice is given to elect to purchase up to the number of New Securities that would, if purchased by such Major Investor, maintain such Major Investor’s percentage-ownership position, calculated as set forth in Subsection 4.1(b) before giving effect to the issuance of such New Securities. If this provision is included in the Agreement, careful attention should be paid to the denominator used in the calculation of the pro rata participation right.  Note that this language will not work if Section 4.1 has been set up to give the investors a preemptive right.  See footnote 41.  The closing of such sale shall occur within sixty (60) days of the date notice is given to the Major Investors.]
+4.1.6.sec=(f)	[Notwithstanding any provision hereof to the contrary, in lieu of complying with the provisions of this Subsection 4.1, the Company may elect to give notice to the Major Investors within thirty (30) days after the issuance of New Securities.  Such notice shall describe the type, price, and terms of the New Securities.  Each Major Investor shall have twenty (20) days from the date notice is given to elect to purchase up to the number of New Securities that would, if purchased by such Major Investor, maintain such Major Investor’s percentage-ownership position, calculated as set forth in Subsection 4.1(b) before giving effect to the issuance of such New Securities.
 
-4.1.=[Bit/Ssec_06]
+Note=If this provision is included in the Agreement, careful attention should be paid to the denominator used in the calculation of the pro rata participation right.  Note that this language will not work if Section 4.1 has been set up to give the investors a preemptive right.  See footnote 41.  The closing of such sale shall occur within sixty (60) days of the date notice is given to the Major Investors.]
+
+4.1.=[Z/paras/s6]
 
 4.2.Ti=Directed IPO Shares
 
@@ -348,13 +353,13 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 5.5.9.sec=(i)	sell, assign, license, pledge, or encumber material technology or intellectual property, other than licenses granted in the ordinary course of business; or
 
-5.5.10.sec=(j)	enter into any corporate strategic relationship involving the payment, contribution, or assignment by the Company or to the Company of money or assets greater than $[100,000].  
+5.5.10.sec=(j)	enter into any corporate strategic relationship involving the payment, contribution, or assignment by the Company or to the Company of money or assets greater than ${100,000}.  
 
-5.5.=[Z/Sec/10]
+5.5.=[Z/paras/s10]
 
 5.6.Ti=Board Matters
 
-5.6.sec=Unless otherwise determined by the vote of a majority of the directors then in office, the Board of Directors shall meet at least [monthly][quarterly] in accordance with an agreed-upon schedule.  The Company shall reimburse the [nonemployee] directors for all reasonable out-of-pocket travel expenses incurred (consistent with the Company’s travel policy) in connection with attending meetings of the Board of Directors.  [The Company shall cause to be established, as soon as practicable after such request, and will maintain, an audit and compensation committee, each of which shall consist solely of non-management directors.  Each non-employee director shall be entitled in such person’s discretion to be a member of any Board committee.] 
+5.6.sec=Unless otherwise determined by the vote of a majority of the directors then in office, the Board of Directors shall meet at least [monthly][quarterly] in accordance with an agreed-upon schedule.  The Company shall reimburse the {nonemployee} directors for all reasonable out-of-pocket travel expenses incurred (consistent with the Company’s travel policy) in connection with attending meetings of the Board of Directors.  [The Company shall cause to be established, as soon as practicable after such request, and will maintain, an audit and compensation committee, each of which shall consist solely of non-management directors.  Each non-employee director shall be entitled in such person’s discretion to be a member of any Board committee.] 
 
 5.7.Ti=Successor Indemnification
 
@@ -472,6 +477,8 @@ Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 90.7.sec= [EXHIBIT A<br>Form Of Noncompetition and Nonsolicitation Agreement]
 
-90.=[Bit/Ssec_07]
+90.=[Z/paras/s7]
 
 =[Z/Sec/6]
+
+DocBody={Doc}

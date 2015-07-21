@@ -1,6 +1,6 @@
 See=one of the forms - foundersrep or nofounderrep
 
-AGT.Ti=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
+Doc.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 0.sec={0.1.sec}<br>{0.2.sec}
 
@@ -126,7 +126,7 @@ Ftn13=<a href="#_ftn13" name="_ftnref" title=""><sup>[13]</sup></a>
 
 1.5.17.sec="<strong>{Voting _Agreement}</strong>" means the agreement among the {Company}, the {Purchasers} and certain other stockholders of the {Company}, dated as of the date of the {Initial_Closing}, in the form of <u>Exhibit H</u> attached to {this_Agreement}.
 
-1.5.=[Bit/Ssec_17]
+1.5.=[Z/Sec/s17]
 
 1.=[Z/Sec/5]
 
@@ -234,7 +234,7 @@ Ftn51=<a href="#_ftn51" name="_ftnref" title="">[51]</a>
 
 4.5.Ti=Opinion of {Company} Counsel
 
-4.5.sec=The {Purchasers} shall have received from {Co.Atty.Name.Full, counsel for the {Company}, an opinion, dated as of the {Initial_Closing}, in substantially the form of Exhibit I attached to {this_Agreement}.
+4.5.sec=The {Purchasers} shall have received from {Co.Atty.Name.Full}, counsel for the {Company}, an opinion, dated as of the {Initial_Closing}, in substantially the form of Exhibit I attached to {this_Agreement}.
 
 4.6.Ti=Board of Directors
 

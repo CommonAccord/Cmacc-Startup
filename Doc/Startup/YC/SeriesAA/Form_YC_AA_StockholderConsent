@@ -4,7 +4,9 @@ R1={Board.R1}
 
 R2={Board.R2}
 
-Ti={Co.Name.Full} Action By Written Consent of Stockholders
+Doc.Title={Co.Name.Full} Action By Written Consent of Stockholders
+
+0.Ti=</i>
 
 0.sec=In accordance with Section 228 of the Delaware General Corporation Law and the Bylaws of {Co.Name.Full}, a Delaware corporation (the "<strong>Company</strong>."), the undersigned stockholders of the Company hereby take the following actions and adopt the following resolutions:
 
@@ -40,6 +42,6 @@ Sign.Witness=<strong>IN WITNESS WHEREOF</strong>, by executing this Action by Wr
 
 Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></table>
 
-=[Bit/Sec_02]
+=[Z/Sec/2]
 
 DocBody={Doc}

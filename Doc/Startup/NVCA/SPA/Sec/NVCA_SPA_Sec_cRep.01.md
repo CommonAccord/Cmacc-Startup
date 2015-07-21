@@ -130,7 +130,7 @@ Ftn26=<a href="#_ftn26" name="_ftnref" title="">[26]</a>
 
 8.10.sec=For purposes of this <u>Subsection </u><u>0</u>, the {Company} shall be deemed to have knowledge of a patent right if the {Company} has actual knowledge of the patent right or would be found to be on notice of such patent right as determined by reference to United States patent laws.
 
-8.=[Bit/Ssec_10]
+8.=[Z/Sec/s10]
 
 
 Ftn27=<a href="#_ftn27" name="_ftnref" title="">[27]</a>
@@ -246,7 +246,7 @@ Ftn35<a href="#_ftn35" name="_ftnref" title="">[35]</a>
 
 15.14.sec=any arrangement or commitment by the {Company} to do any of the things described in this <u>Subsection </u><u>2.11</u>.
 
-15.=[Bit/Ssec_14]
+15.=[Z/Sec/s14]
 
 16.Ti=Employee Matters
 
@@ -280,7 +280,7 @@ Ftn36=<a href="#_ftn36" name="_ftnref" title="">[36]</a>
 
 16.14.sec=To the {Company}'s knowledge, none of the Key Employees or directors of the {Company} has been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities, or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
-16.=[Bit/Ssec_14]
+16.=[Z/Sec/s14]
 
 Ftn37=<a href="#_ftn37" name="_ftnref" title="">[37]</a>
 

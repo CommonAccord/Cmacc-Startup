@@ -1,4 +1,6 @@
-Ti={Co.Name.Full}<br>Restated Certificate of Incorporation<br>(Pursuant to Sections 242 and 245 of the General Corporation Law of the State of Delaware)
+Doc.Title={Co.Name.Full}<br>Restated Certificate of Incorporation<br>(Pursuant to Sections 242 and 245 of the General Corporation Law of the State of Delaware)
+
+0.Ti=</i>
 
 0.sec={Co.Name.Full}, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the "General Corporation Law"), does hereby certify as follows.
 

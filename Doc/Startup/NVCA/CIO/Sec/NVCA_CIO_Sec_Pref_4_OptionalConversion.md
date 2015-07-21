@@ -72,7 +72,7 @@ Ti=Optional Conversion
 
 4.1.4.8.sec=shares of Common Stock, Options or Convertible Securities issued in connection with sponsored research, collaboration, technology license, development, OEM, marketing or other similar agreements or strategic partnerships approved by the Board of Directors of the Corporation[, including the Series A Directors][, including at least one Series A Director][that do not exceed an aggregate of [______] shares of Common Stock (including shares underlying (directly or indirectly) any such Options or Convertible Securities)].
 
-4.1.4.=[Bit/Ssec_08]
+4.1.4.=[Z/Sec/s8]
 
 4.1.=[Z/Sec/s4]
 

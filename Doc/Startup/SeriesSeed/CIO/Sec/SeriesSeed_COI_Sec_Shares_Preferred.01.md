@@ -59,7 +59,7 @@ Ti=Preferred Stock
 
 2.3.7.sec=liquidate, dissolve, or wind-up the business and affairs of the Corporation, effect any Deemed Liquidation Event, or consent, agree or commit to do any of the foregoing without conditioning such consent, agreement or commitment upon obtaining the approval required by this Section 2.3.
 
-2.3.=[Bit/Ssec_07]
+2.3.=[Z/Sec/s7]
 
 2.=[Z/Sec/3]
 

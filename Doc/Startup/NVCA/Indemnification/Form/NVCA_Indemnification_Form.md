@@ -1,4 +1,6 @@
-Ti=INDEMNIFICATION AGREEMENT
+Doc.Title=INDEMNIFICATION AGREEMENT
+
+0.Ti=</i>
 
 0.1.sec=THIS INDEMNIFICATION AGREEMENT (the “Agreement”) is made and entered into as of [___________], 200[_] between [corporation], a Delaware corporation (the “Company”), and [name] (“Indemnitee”).
 
@@ -22,7 +24,7 @@ Ti=INDEMNIFICATION AGREEMENT
 
 0.2.xlist={0.2.nlist}
 
-0.2.=[Bit/Ssec_08]
+0.2.=[Z/Sec/s8]
 
 0.90.sec=NOW, THEREFORE, in consideration of Indemnitee’s agreement to serve as an [officer] [director] from and after the date hereof, the parties hereto agree as follows:
 
@@ -164,7 +166,7 @@ Ti=INDEMNIFICATION AGREEMENT
 
 7.6.sec=Notwithstanding anything in this Agreement to the contrary, no determination as to entitlement to indemnification under this Agreement shall be required to be made prior to the final disposition of the Proceeding.
 
-7.=[Bit/Ssec_06]
+7.=[Z/Sec/s6]
 
 8.Ti=Non-Exclusivity; Survival of Rights; Insurance; Primacy of Indemnification; Subrogation
 
@@ -180,7 +182,7 @@ Ti=INDEMNIFICATION AGREEMENT
 
 8.6.sec=Except as provided in paragraph (c) above, the Company's obligation to indemnify or advance Expenses hereunder to Indemnitee who is or was serving at the request of the Company as a director, officer, employee or agent of any other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise shall be reduced by any amount Indemnitee has actually received as indemnification or advancement of expenses from such other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise.
 
-8.=[Bit/Ssec_06]
+8.=[Z/Sec/s6]
 
 9.Ti=Exception to Right of Indemnification
 
@@ -228,7 +230,7 @@ Ti=INDEMNIFICATION AGREEMENT
 
 13.6.sec=“Proceeding” includes any threatened, pending or completed action, suit, arbitration, alternate dispute resolution mechanism, investigation, inquiry, administrative hearing or any other actual, threatened or completed proceeding, whether brought by or in the right of the Company or otherwise and whether civil, criminal, administrative or investigative, in which Indemnitee was, is or will be involved as a party or otherwise, by reason of his or her Corporate Status, by reason of any action taken by him or of any inaction on his part while acting in his or her Corporate Status; in each case whether or not he is acting or serving in any such capacity at the time any liability or expense is incurred for which indemnification can be provided under this Agreement; including one pending on or before the date of this Agreement, but excluding one initiated by an Indemnitee pursuant to Section 7 of this Agreement to enforce his rights under this Agreement.
 
-13.=[Bit/Ssec_06]
+13.=[Z/Sec/s6]
 
 14.Ti=Severability
 

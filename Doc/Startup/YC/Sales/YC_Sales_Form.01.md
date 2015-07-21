@@ -54,9 +54,9 @@ Note=OPTIONAL:  delete this section if you are not offering a pilot
 
 7.=[Z/Sec/s3]
 
-=[Bit/Agt/Agt.md]
+=[Z/Agt/Agt.md]
 
-=[Bit/Sec_07]
+=[Z/Sec/7]
 
 DocBody={Doc}
 
@@ -72,4 +72,4 @@ P1.Handle=Company
 
 P2.Handle=Customer
 
-=[Bit/Agt/DT_Base.md]
+=[Z/Agt/DT_Base.md]

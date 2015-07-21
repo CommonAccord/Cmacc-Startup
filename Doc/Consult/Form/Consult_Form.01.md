@@ -250,6 +250,6 @@ DocBody={Doc}
 
 =[Z/Sec/19]
 
-PageName=Startup/Consult/Form/Consult_Form.01.md
+PageName=Consult/Form/Consult_Form.01.md
 
-=[Startup/Consult/Sec/DT_Consult.md]
+=[Consult/Sec/DT_Consult.md]

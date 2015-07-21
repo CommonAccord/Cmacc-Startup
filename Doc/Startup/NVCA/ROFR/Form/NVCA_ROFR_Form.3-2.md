@@ -1,5 +1,6 @@
+Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
-Ti=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
+0.Ti=</i>
 
 0.0.sec=THIS {Ti} (this “Agreement”), is made as of the [__] day of [________, 20__] by and among [_____], a [Delaware] corporation (the “Company”), the Investors listed on Schedule A and the Key Holders listed on Schedule B.
 
@@ -65,7 +66,7 @@ Ti=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 1.19.sec=“Undersubscription Notice” means written notice from an Investor notifying the Company and the selling Key Holder that such Investor intends to exercise its option to purchase all or any portion of the Transfer Stock not purchased pursuant to the Right of First Refusal or the Secondary Refusal Right.
 
-1.=[Bit/Ssec_19]
+1.=[Z/Sec/s19]
 
 2.Ti=Agreement Among the Company, the Investors and the Key Holders
 
@@ -339,6 +340,7 @@ Ti=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 =[Z/Sec/6]
 
+DocBody={Doc}
 
 
 Exh.1.Ti=Consent of Spouse

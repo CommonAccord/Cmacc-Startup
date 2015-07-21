@@ -1,4 +1,6 @@
-Ti={Co.Name.Full} Action By Unanimous Written Consent of the Board of Directors
+Doc.Title={Co.Name.Full} Action By Unanimous Written Consent of the Board of Directors
+
+0.Ti=</i>
 
 0.sec=In accordance with Sections 108(c) and 141(f) of the Delaware General Corporation Law and the Bylaws of {Co.Name.Full}, a Delaware corporation (the "<strong>Company</strong>"), the undersigned, constituting all of the members of the Company's Board of Directors (the "<strong>Board</strong>"), hereby adopt the following resolutions effective as of the last date of execution set forth below:
 
@@ -51,7 +53,7 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 2.8.sec={R2} That the appropriate officers of the Company be, and each of them hereby is, authorized and directed, for and in the name and on behalf of the Company, to execute and deliver, to the appropriate parties, the Purchase Agreement, substantially in the form submitted to and reviewed by the Company's Board, with such changes therein or additions thereto as the officer executing the same shall approve with the advice of legal counsel, the execution and delivery of such agreement by such officer to be conclusive evidence of the approval of the Board thereof and all matters relating thereto.
 
-2.=[Bit/Ssec_08]
+2.=[Z/Sec/s8]
 
 3.Ti=Authorization of Amended and Restated Investors' Rights Agreement
 
@@ -83,7 +85,7 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 4.=[Z/Sec/s2]
 
-=[Bit/Sec_04]
+=[Z/Sec/4]
 
 DocBody={Doc}
 

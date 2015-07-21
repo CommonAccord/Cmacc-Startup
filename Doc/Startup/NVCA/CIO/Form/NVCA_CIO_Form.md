@@ -1,13 +1,15 @@
-Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
+Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 
+0.Ti=</i>
 0.1.sec=(Pursuant to Sections 242 and 245 of the General Corporation Law of the State of Delaware)
-0.2.sec=[____________], a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the “General Corporation Law”),
+
+0.2.sec={____________}, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the “General Corporation Law”),
 
 0.90.sec=DOES HEREBY CERTIFY:
 
 0.=[Z/Sec/s2]
 
-1.sec=That the name of this corporation is [_______________], and that this corporation was originally incorporated pursuant to the General Corporation Law on [________ __, 20__] under the name [_______________].
+1.sec=That the name of this corporation is {_______________}, and that this corporation was originally incorporated pursuant to the General Corporation Law on {________ __, 20__} under the name {_______________}.
 
 2.0.sec=That the Board of Directors duly adopted resolutions proposing to amend and restate the Certificate of Incorporation of this corporation, declaring said amendment and restatement to be advisable and in the best interests of this corporation and its stockholders, and authorizing the appropriate officers of this corporation to solicit the consent of the stockholders therefor, which resolution setting forth the proposed amendment and restatement is as follows:
 
@@ -18,10 +20,13 @@ Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 2.=[Z/Sec/1]
 
 3.sec=That the foregoing amendment and restatement was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
+
 4.sec=That this Amended and Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this Corporation’s Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law. 
 
-90.1.sec=IN WITNESS WHEREOF, this Amended and Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this [__ day of _________, 20__].
+90.1.sec=IN WITNESS WHEREOF, this Amended and Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this {__ day of _________, 20__}.
 
 90.2.sec={Co.Secretary.Sign.Block}
 
 =[Z/Sec/s4]
+  
+DocBody={Doc}

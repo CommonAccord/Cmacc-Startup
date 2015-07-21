@@ -36,6 +36,6 @@ Ti=Mandatory Conversion
 
 2.7.sec=Such converted Series A Preferred Stock shall be retired and cancelled and may not be reissued as shares of such series, and the Corporation may thereafter take such appropriate action (without the need for stockholder action) as may be necessary to reduce the authorized number of shares of Series A Preferred Stock accordingly.
 
-2.=[Bit/Ssec_07]
+2.=[Z/Sec/s7]
 
 =[Z/Sec/2]
