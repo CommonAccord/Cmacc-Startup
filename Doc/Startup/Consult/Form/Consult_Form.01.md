@@ -242,7 +242,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
-Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="top">{P2.Sign.Block}</td></tr></table>
+Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td> - <td valign="top">{P2.Sign.Block}</td></tr></table>
 
 90.1.Sec=IN WITNESS WHEREOF, the {parties} have executed {this_Agreement} as of the {Effective_Date}.
 

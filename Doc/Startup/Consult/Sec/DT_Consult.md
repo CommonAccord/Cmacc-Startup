@@ -1,29 +1,21 @@
-=[Bit/Agt/DT_Base.md]
+=[Z/Agt/DT_Base.md]
 
-Services={d-}Services{-d}
+Services=<font color="green">Services</font>
 
-Client={d-}Client{-d}
+Client=<font color="green">Client</font>
 
-the_Client={d-}the Client{-d}
+the_Client=<font color="green">the Client</font>
 
-The_Client={d-}The Client{-d}
+The_Client=<font color="green">The Client</font>
 
-Consultant={d-}Consultant{-d}
+Consultant=<font color="green">Consultant</font>
 
-The_Consultant={d-}The Consultant{-d}
+The_Consultant=<font color="green">The Consultant</font>
 
-the_Consultant={d-}the Consultant{-d}
+the_Consultant=<font color="green">the Consultant</font>
 
-Project_Assignment={d-}Project Assignment{-d}
+Project_Assignment=<font color="green">Project Assignment</font>
 
-Project_Assignments={d-}Project Assignments{-d}
+Project_Assignments=<font color="green">Project Assignments</font>
 
-Work_Product={d-}Work Product{-d}
-
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="green">
-
--d=</font></a>
-
-m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{mPageName}"><font color="magenta">
-
--m=</font></a>
+Work_Product=<font color="green">Work Product</font>

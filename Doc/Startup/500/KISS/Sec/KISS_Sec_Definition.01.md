@@ -40,7 +40,7 @@ Conversion_Price.Xref={Def.Xref}.2
 
 4.sec="{Corporate_Transaction_Payment}" shall mean an amount equal to all accrued and unpaid interest due on this {KISS} plus two times (2X) the {Purchase_Price}.
 
-5.sec="{Discount}" shall mean {m-}{Discount.%}{-m}.
+5.sec="{Discount}" shall mean {Discount.%}.
 
 6.sec="{Equity_Securities}" shall mean {the_Company}'s Common Stock ("{Common_Stock}") or {the_Company}'s Preferred Stock ("{Preferred_Stock}") or any securities conferring the right to purchase {the_Common_Stock_or_Preferred_Stock} or securities convertible into, or exchangeable for (with or without additional consideration), {the_Common_Stock_or_Preferred_Stock}, except any security granted, issued and/or sold by {the_Company} to any director, officer, employee or consultant of {the_Company} in such capacity for the primary purpose of soliciting or retaining their services.
 
@@ -66,9 +66,9 @@ Conversion_Price.Xref={Def.Xref}.2
 
 17.sec="{Shadow_Series}" shall mean shares of a series of {Preferred_Stock} that is identical in all respects to the shares of {Preferred_Stock} issued in the {Next_Equity_Financing} (e.g., if {the_Company} sells {Series_A_Preferred_Stock} in the {Next_Equity_Financing}, the {Shadow_Series} would be Series A-1 Preferred Stock), except that the liquidation preference per share of the {Shadow_Series} shall equal the {Conversion_Price} (as determined pursuant to {Conversion_Price.Xref}.1), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-18.sec="{Valuation_Cap}" shall mean {m-}{ValuationCap.$}{-m}.
+18.sec="{Valuation_Cap}" shall mean {ValuationCap.$}
 
-=[Bit/Ssec_18]
+=[Z/Sec/s18]
  
 mPageName=02/Sec/KISS_Sec_Definition.01.md
 

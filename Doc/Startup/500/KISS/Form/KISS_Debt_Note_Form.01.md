@@ -39,6 +39,8 @@ Conversion.Xref={Doc.2.Xref}
 
 xPageName=Startup/500/KISS/Form/KISS_Debt_Note_Form.01.md
 
-=[Bit/Doc]
+=[Z/Sec/0]
+
+DocBody={Doc}
 
 =[Startup/500/KISS/Sec/KISS_DT.01.md]
