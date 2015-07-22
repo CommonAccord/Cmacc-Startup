@@ -1,16 +1,23 @@
 Model.Root={NDA}
 
-=[NDA/BB_Blocks.md]
+=[BB/NDA/BB_Blocks.md]
 
 Company={P1.Nom}
+
 Co.Description={P1.Description}
+
 Co.Rep.Name={P1.Dirigeant.Nom}
+
 Co.Rep.Title={P1.Dirigeant.Titre}  
+
 Co.FullAddress={P1.Adresse.1,3}  
 
 Partner={P2.Nom}
+
 Partner.Description={P2.Description}
+
 Partner.Rep.Name={P2.Rep1.Nom}
+
 Partner.Rep.Title={P2.Rep1.Titre}
 
 NDA=<P>{ConfidentialInformation}</P><P>{Parties}</P><P>{Confidentiality}</P><P>{Protection}</P><P>{Handling}</P><P>{Exceptions}</P><P>{Assignment}</P><P>{Obligations}</P><P>{Remedies}</P><P>{ThirdParties}</P><P>{Duration}</P><P>{GoverningLawArbitration}</P>

@@ -1,4 +1,4 @@
-=[BeBound/BB_Core]
+Model.Root={Content}
 
 Content={MOU}
 
@@ -8,4 +8,4 @@ P2.Background={P2.Nom} works towards TBC</p>
 
 P1.Background=<p>Company is headquartered in {P1.Adresse.Pays} and dedicated to providing solutions to TBC</p>  
 
-MOU.Scope=<p>{P2.Nom} and Company agree to the scope of work as described in Addendum A, aimed at partnering in {Scope.Country}, to provide together TBC</p>  
+MOU.Scope=<p>{P2.Nom} and Company agree to the scope of work as described in Addendum A, aimed at partnering in {Scope.Country}, to provide together TBC</p>

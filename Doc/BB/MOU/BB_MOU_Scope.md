@@ -1,5 +1,4 @@
-=[BeBound/BB_Core]
-=[BeBound/BB_Apps]
+Model.Root={Content}
 
 Content={Scope.All}
 
@@ -11,7 +10,7 @@ Scope.Details=<p>The purpose of the pilot is to:{Pilot.Purpose}<P>At the end of 
 
 Scope.Plan=<p>The following list are the tasks required to prepare the pilot and test Company in real conditions with the {P2.Nom} network.<br><br>Prerequisites:{Pilot.PreRequisites}</p><br><p>Pilot set-up timeline</P>{Pilot.Timeline}
 
-Scope.Closing=  
+Scope.Closing=  \
 
 Pilot.Offer=
 
