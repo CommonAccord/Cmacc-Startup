@@ -1,4 +1,3 @@
-
 DemoDocName=Startup/YC/SAFE/Form/YC_Safe_Cap_Discount_Form_01.md
 
 Site-Name=Site-Startup
@@ -13,8 +12,8 @@ Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{Twitt
 
 IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
-Introduction.sec=This website is for startup  documents.
+Introduction.sec=This website is for startup  documents.  <br><br>New contribution of documents that Be-Bound uses in CommonAccord - <a href="index.php?action=list&file=/BB/"> MOU and NDA </a>.
 
-FormDoc.sec=When you click on the first link below, you will see a form of YCombinator SAFE Note (Cap; Discount).</a>.  It is, of course, only an example, intended to be adapted and extended. 
+FormDoc.sec=When you click on the first link below, you will see a form of YCombinator SAFE Note (Cap; Discount).  It is, of course, only an example, intended to be adapted and extended. 
 
 =[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
