@@ -16,4 +16,6 @@ Introduction.sec=This website is for startup  documents.  <br><br>New contributi
 
 FormDoc.sec=When you click on the first link below, you will see a form of YCombinator SAFE Note (Cap; Discount).  It is, of course, only an example, intended to be adapted and extended. 
 
+DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
+
 =[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
