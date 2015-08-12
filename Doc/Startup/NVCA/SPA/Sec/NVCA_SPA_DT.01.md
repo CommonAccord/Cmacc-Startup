@@ -1,166 +1,166 @@
-1.3.1. specify percentage={d-}1.3.1. specify percentage{-d}
+1.3.1. specify percentage=<font color="green">1.3.1. specify percentage</font>
 
-1.3.2.Ins1={d-}1.3.2.Ins1{-d}
+1.3.2.Ins1=<font color="green">1.3.2.Ins1</font>
 
-11.2.2.2.material={d-}11.2.2.2.material{-d}
+11.2.2.2.material=<font color="green">11.2.2.2.material</font>
 
-14.3.After.YMD={d-}14.3.After.YMD{-d}
+14.3.After.YMD=<font color="green">14.3.After.YMD</font>
 
-15.0.RecentFinancialStatements.AsOf.YMD={d-}15.0.RecentFinancialStatements.AsOf.YMD{-d}
+15.0.RecentFinancialStatements.AsOf.YMD=<font color="green">15.0.RecentFinancialStatements.AsOf.YMD</font>
 
-16.2.Current_Comp_$={d-}16.2.Current_Comp_${-d}
+16.2.Current_Comp_$=<font color="green">16.2.Current_Comp_$</font>
 
-16.2.Current_End_YMD={d-}16.2.Current_End_YMD{-d}
+16.2.Current_End_YMD=<font color="green">16.2.Current_End_YMD</font>
 
-16.2.Next_Comp_$={d-}16.2.Next_Comp_${-d}
+16.2.Next_Comp_$=<font color="green">16.2.Next_Comp_$</font>
 
-16.2.Next_End_YMD={d-}16.2.Next_End_YMD{-d}
+16.2.Next_End_YMD=<font color="green">16.2.Next_End_YMD</font>
 
-24.1.know.1={d-}24.1.know.1{-d}
+24.1.know.1=<font color="green">24.1.know.1</font>
 
-24.1.know.2={d-}24.1.know.2{-d}
+24.1.know.2=<font color="green">24.1.know.2</font>
 
-2Rep.Xnum={d-}2Rep.Xnum{-d}
+2Rep.Xnum=<font color="green">2Rep.Xnum</font>
 
-7.in writing={d-}7.in writing{-d}
+7.in writing=<font color="green">7.in writing</font>
 
-8.can acquire={d-}8.can acquire{-d}
+8.can acquire=<font color="green">8.can acquire</font>
 
-9.1.knowledge={d-}9.1.knowledge{-d}
+9.1.knowledge=<font color="green">9.1.knowledge</font>
 
-Additional_Purchaser={d-}Additional Purchaser{-d}
+Additional_Purchaser=<font color="green">Additional Purchaser</font>
 
-Additional_Purchasers={d-}Additional Purchasers{-d}
+Additional_Purchasers=<font color="green">Additional Purchasers</font>
 
-Additional_Shares.#={d-}Additional Shares.#{-d}
+Additional_Shares.#=<font color="green">Additional Shares.#</font>
 
-Additional_Shares={d-}Additional Shares{-d}
+Additional_Shares=<font color="green">Additional Shares</font>
 
-Affiliate={d-}Affiliate{-d}
+Affiliate=<font color="green">Affiliate</font>
 
-Agreement={d-}Agreement{-d}
+Agreement=<font color="green">Agreement</font>
 
-Agreements={d-}Agreements{-d}
+Agreements=<font color="green">Agreements</font>
 
-AGT.Effective.YMD={d-}AGT.Effective.YMD{-d}
+AGT.Effective.YMD=<font color="green">AGT.Effective.YMD</font>
 
-Closing.Location={d-}Closing.Location{-d}
+Closing.Location=<font color="green">Closing.Location</font>
 
-Closing.Time={d-}Closing.Time{-d}
+Closing.Time=<font color="green">Closing.Time</font>
 
-Closing={d-}Closing{-d}
+Closing=<font color="green">Closing</font>
 
-Closings={d-}Closings{-d}
+Closings=<font color="green">Closings</font>
 
-Co.Name.Full={d-}Co.Name.Full{-d}
+Co.Name.Full=<font color="green">Co.Name.Full</font>
 
-Code={d-}Code{-d}
+Code=<font color="green">Code</font>
 
-Company={d-}Company{-d}
+Company=<font color="green">Company</font>
 
-Company_Covered_Person={d-}Company Covered Person{-d}
+Company_Covered_Person=<font color="green">Company Covered Person</font>
 
-Company_Intellectual_Property={d-}Company Intellectual Property{-d}
+Company_Intellectual_Property=<font color="green">Company Intellectual Property</font>
 
-Consultants-Quantity={d-}Consultants-Quantity{-d}
+Consultants-Quantity=<font color="green">Consultants-Quantity</font>
 
-Dispute.Forum.c.={d-}Dispute.Forum.c.{-d}
+Dispute.Forum.c.=<font color="green">Dispute.Forum.c.</font>
 
-Dispute.Forum.cl={d-}Dispute.Forum.cl{-d}
+Dispute.Forum.cl=<font color="green">Dispute.Forum.cl</font>
 
-DS.2.8.Xnum={d-}DS.2.8.Xnum{-d}
+DS.2.8.Xnum=<font color="green">DS.2.8.Xnum</font>
 
-Founder={d-}Founder{-d}
+Founder=<font color="green">Founder</font>
 
-FullTimeEmployees-Quantity={d-}FullTimeEmployees-Quantity{-d}
+FullTimeEmployees-Quantity=<font color="green">FullTimeEmployees-Quantity</font>
 
-Indebtedness-Threshold-Single-$={d-}Indebtedness-Threshold-Single-${-d}
+Indebtedness-Threshold-Single-$=<font color="green">Indebtedness-Threshold-Single-$</font>
 
-Indemnification_Agreement={d-}Indemnification Agreement{-d}
+Indemnification_Agreement=<font color="green">Indemnification Agreement</font>
 
-Initial_Closing={d-}Initial_Closing{-d}
+Initial_Closing=<font color="green">Initial_Closing</font>
 
-Investors'_Rights_Agreement={d-}Investors' Rights Agreement{-d}
+Investors'_Rights_Agreement=<font color="green">Investors' Rights Agreement</font>
 
-Key_Employee={d-}Key Employee{-d}
+Key_Employee=<font color="green">Key Employee</font>
 
-Knowledge={d-}Knowledge{-d}
+Knowledge=<font color="green">Knowledge</font>
 
-Management_Rights_Letter={d-}Management Rights Letter{-d}
+Management_Rights_Letter=<font color="green">Management Rights Letter</font>
 
-Material_Adverse_Effect={d-}Material Adverse Effect{-d}
+Material_Adverse_Effect=<font color="green">Material Adverse Effect</font>
 
-Milestone or Additional Shares={d-}Milestone or Additional Shares{-d}
+Milestone or Additional Shares=<font color="green">Milestone or Additional Shares</font>
 
-Milestone Shares or Additional Shares={d-}Milestone Shares or Additional Shares{-d}
+Milestone Shares or Additional Shares=<font color="green">Milestone Shares or Additional Shares</font>
 
-Milestone_or_Additional_Shares={d-}Milestone or Additional Shares{-d}
+Milestone_or_Additional_Shares=<font color="green">Milestone or Additional Shares</font>
 
-Milestone_Shares={d-}Milestone Shares{-d}
+Milestone_Shares=<font color="green">Milestone Shares</font>
 
-Milestone_Shares_or_Additional_Shares={d-}Milestone Shares or Additional Shares{-d}
+Milestone_Shares_or_Additional_Shares=<font color="green">Milestone Shares or Additional Shares</font>
 
-Number_of_Common_Shares_Available_for_Issuance_to_Employees={d-}Number_of_Common_Shares_Available_for_Issuance_to_Employees{-d}
+Number_of_Common_Shares_Available_for_Issuance_to_Employees=<font color="green">Number of Common Shares Available for Issuance to Employees</font>
 
-Number_of_Common_Shares_Reserved_for_Employees={d-}Number_of_Common_Shares_Reserved_for_Employees{-d}
+Number_of_Common_Shares_Reserved_for_Employees=<font color="green">Number of Common Shares Reserved for Employees</font>
 
-Number_of_Options_Granted_to_Employees={d-}Number_of_Options_Granted_to_Employees{-d}
+Number_of_Options_Granted_to_Employees=<font color="green">Number of Options Granted to Employees</font>
 
-P1.Atty.Fee.Max.$={d-}P1.Atty.Fee.Max.${-d}
+P1.Atty.Fee.Max.$=<font color="green">P1.Atty.Fee.Max.$</font>
 
-P1.Atty.Handle={d-}P1.Atty.Handle{-d}
+P1.Atty.Handle=<font color="green">P1.Atty.Handle</font>
 
-P1.Atty.N,A={d-}P1.Atty.N,A{-d}
+P1.Atty.N,A=<font color="green">P1.Atty.N,A</font>
 
-P1.Atty.Name.Full={d-}P1.Atty.Name.Full{-d}
+P1.Atty.Name.Full=<font color="green">P1.Atty.Name.Full</font>
 
-P1.Handle={d-}P1.Handle{-d}
+P1.Handle=<font color="green">P1.Handle</font>
 
-P5.Name.Full={d-}P5.Name.Full{-d}
+P5.Name.Full=<font color="green">P5.Name.Full</font>
 
-PartTimeEmployees-Quantity={d-}PartTimeEmployees-Quantity{-d}
+PartTimeEmployees-Quantity=<font color="green">PartTimeEmployees-Quantity</font>
 
-ParValue_of_Common_Shares_PreRound={d-}ParValue_of_Common_Shares_PreRound{-d}
+ParValue_of_Common_Shares_PreRound=<font color="green">ParValue of Common Shares PreRound</font>
 
-ParValue_SeriesA_Shares={d-}ParValue SeriesA Shares{-d}
+ParValue_SeriesA_Shares=<font color="green">ParValue SeriesA Shares</font>
 
-Person={d-}Person{-d}
+Person=<font color="green">Person</font>
 
-Purchase_Price_Per_Share_SeriesA={d-}Purchase Price Per Share SeriesA{-d}
+Purchase_Price_Per_Share_SeriesA=<font color="green">Purchase Price Per Share SeriesA</font>
 
-Purchaser={d-}Purchaser{-d}
+Purchaser=<font color="green">Purchaser</font>
 
-Purchasers={d-}Purchasers{-d}
+Purchasers=<font color="green">Purchasers</font>
 
-Quantity_of_Authorized_Common_Shares_PreRound={d-}Quantity_of_Authorized_Common_Shares_PreRound{-d}
+Quantity_of_Authorized_Common_Shares_PreRound=<font color="green">Quantity of Authorized Common Shares PreRound</font>
 
-Quantity_of_Preferred_Shares_PreRound={d-}Quantity_of_Preferred_Shares_PreRound{-d}
+Quantity_of_Preferred_Shares_PreRound=<font color="green">Quantity of Preferred Shares PreRound</font>
 
-Quantity_of_SeriesA_Shares_PreRound={d-}Quantity_of_SeriesA_Shares_PreRound{-d}
+Quantity_of_SeriesA_Shares_PreRound=<font color="green">Quantity of SeriesA Shares PreRound</font>
 
-Restated_Certificate={d-}Restated Certificate{-d}
+Restated_Certificate=<font color="green">Restated Certificate</font>
 
-Right_of_First_Refusal_and_Co-Sale_Agreement={d-}Right of First Refusal and Co-Sale Agreement{-d}
+Right_of_First_Refusal_and_Co-Sale_Agreement=<font color="green">Right of First Refusal and Co-Sale Agreement</font>
 
-SBIC _Purchaser={d-}SBIC _Purchaser{-d}
+SBIC _Purchaser=<font color="green">SBIC  Purchaser</font>
 
-Securities_Act={d-}Securities Act{-d}
+Securities_Act=<font color="green">Securities Act</font>
 
-Series_A_Preferred_Stock={d-}Series A Preferred Stock{-d}
+Series_A_Preferred_Stock=<font color="green">Series A Preferred Stock</font>
 
-Shares={d-}Shares{-d}
+Shares=<font color="green">Shares</font>
 
-Stock Option Plan={d-}Stock Option Plan{-d}
+Stock Option Plan=<font color="green">Stock Option Plan</font>
 
-this_Agreement={d-}this_Agreement{-d}
+this_Agreement=<font color="green">this Agreement</font>
 
-Threshold-Obligations-$={d-}Threshold-Obligations-${-d}
+Threshold-Obligations-$=<font color="green">Threshold-Obligations-$</font>
 
-Transaction_Agreements={d-}Transaction_Agreements{-d}
+Transaction_Agreements=<font color="green">Transaction Agreements</font>
 
-TransactionAgreements.Other.List={d-}TransactionAgreements.Other.List{-d}
+TransactionAgreements.Other.List=<font color="green">TransactionAgreements.Other.List</font>
 
-Voting _Agreement={d-}Voting  Agreement{-d}
+Voting _Agreement=<font color="green">Voting Agreement</font>
 
 d-=<font color="green">
 
