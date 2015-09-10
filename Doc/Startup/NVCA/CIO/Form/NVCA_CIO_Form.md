@@ -17,7 +17,7 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 
 2.1.=[Startup/NVCA/CIO/Sec/NVCA_CIO_Text.md]
 
-2.=[Z/Sec/1]
+2.=[Z/ol/1]
 
 3.sec=That the foregoing amendment and restatement was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
 
@@ -27,6 +27,6 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 
 90.2.sec={Co.Secretary.Sign.Block}
 
-=[Z/Sec/s4]
+=[Z/ol/s4]
   
 DocBody={Doc}

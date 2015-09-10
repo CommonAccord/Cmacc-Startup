@@ -68,7 +68,7 @@ Conversion_Price.Xref={Def.Xref}.2
 
 18.sec="{Valuation_Cap}" shall mean {ValuationCap.$}
 
-=[Z/Sec/s18]
+=[Z/ol-none/s18]
  
 mPageName=02/Sec/KISS_Sec_Definition.01.md
 

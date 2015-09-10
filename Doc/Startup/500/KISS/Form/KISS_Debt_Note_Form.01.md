@@ -1,4 +1,4 @@
-Secs={Def.Sec}<li>{Conversion.Sec}<li>{iRep.Sec}<li>{iRep.Sec}<li>{Misc.Sec}<li>{Approval.Sec}
+Olist=<ol><li>{Def.Sec}<li>{Conversion.Sec}<li>{iRep.Sec}<li>{iRep.Sec}<li>{Misc.Sec}<li>{Approval.Sec}</ol>
 
 P1.Handle=Company
 
@@ -39,7 +39,7 @@ Conversion.Xref={Doc.2.Xref}
 
 xPageName=Startup/500/KISS/Form/KISS_Debt_Note_Form.01.md
 
-=[Z/Sec/0]
+=[Z/ol/Base]
 
 DocBody={Doc}
 
