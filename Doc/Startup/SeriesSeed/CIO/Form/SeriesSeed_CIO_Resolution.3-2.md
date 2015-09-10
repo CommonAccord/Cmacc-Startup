@@ -12,7 +12,7 @@ Co.Name.Full.Initial={Co.Name.Full}
 
 2.1.sec=RESOLVED, that the Certificate of Incorporation of this corporation be amended and restated in its entirety to read as set forth on Exhibit A attached hereto and incorporated herein by this reference.
 
-2.=[Z/Sec/1]
+2.=[Z/ol/1]
 
 3.sec=Exhibit A referred to above is attached hereto as Exhibit A and is hereby incorporated herein by this reference.  This Restated Certificate of Incorporation was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
 
@@ -20,6 +20,6 @@ Co.Name.Full.Initial={Co.Name.Full}
 
 90.sec=IN WITNESS WHEREOF, this Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this {Sign.YMD}.<br>By:	{Sign.Name.Full}, {Sign.Title}
 
-=[Z/Sec/s4]
+=[Z/ol/s4]
 
 DocBody={Doc}

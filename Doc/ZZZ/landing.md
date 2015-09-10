@@ -12,9 +12,9 @@ Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{Twitt
 
 IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
-Introduction.sec=This website is for startup  documents.  <br><br>New contribution of documents that Be-Bound uses in CommonAccord - <a href="index.php?action=list&file=/BB/"> MOU and NDA </a>.
+Introduction.sec=This website is for startup  documents, starting with some common investment documents, but expected to expand into other documents that startups commonly need.  It is also intended to coordinate with startup docs in other jurisdictions, for instance on the fr.commonaccord.org site.  The goal is to remove needless pain from the legal aspects of startup and to coordinate with a general system of legal dealings. 
 
-FormDoc.sec=When you click on the first link below, you will see a form of YCombinator SAFE Note (Cap; Discount).  It is, of course, only an example, intended to be adapted and extended. 
+FormDoc.sec=It has a variety of model documents - 500 Startups, NVCA, Series Seed, TechStars and YCombinator.  Except for the NVCA docs, they are ready to be used (this technical, not legal advice!).  The NVCA docs need more work, but you will see the outline of the solution. <br>Each file on the system has a number of views.  For example, the YCombinator SAFE Note - (Cap, Discount) can be seen in each of the following ways. 
 
 DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
 

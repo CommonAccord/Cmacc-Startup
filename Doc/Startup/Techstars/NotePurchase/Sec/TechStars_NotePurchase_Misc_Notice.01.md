@@ -12,4 +12,4 @@ Ti=Notices
 
 90.Sec=All communications shall be sent to {the_Company} at the address on the signature page below, and to {Purchaser} at the addresses set forth on the {Schedule_of_Purchasers} attached hereto or at such other addresses as {the_Company} or {Purchaser} may designate by 10 days advance written notice to the other parties hereto
 
-=[Z/Sec/s4]
+=[Z/ol/s4]

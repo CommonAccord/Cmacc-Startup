@@ -14,7 +14,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 0.1.1.90.sec=NOW, THEREFORE, the parties hereby agree as follows:]
 
-0.1.1.=[Z/Sec/s2]
+0.1.1.=[Z/ol/s2]
 
 0.1.2.0.sec=[Alternative 2:
 
@@ -26,11 +26,11 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 0.1.2.90.sec=NOW, THEREFORE, the Existing Investors hereby agree that the Prior Agreement shall be [amended and restated][superseded and replaced in its entirety by this Agreement], and the parties to this Agreement further agree as follows:
 
-0.1.2.=[Z/Sec/s3]
+0.1.2.=[Z/ol/s3]
 
-0.1.=[Z/Sec/s2]
+0.1.=[Z/ol/s2]
 
-0.=[Z/Sec/s1]
+0.=[Z/ol/s1]
 
 1.Ti=Definitions
 
@@ -98,7 +98,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 1.31.sec=“Series A Preferred Stock” means shares of the Company’s Series A Preferred Stock, par value [$0.___] per share.
 
-1.=[Z/Sec/s31]
+1.=[Z/ol/s31]
 
 2.Ti=Registration Rights
 
@@ -116,7 +116,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.1.4.sec=(d)	The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(a)(i) during the period that is [sixty (60)] days before the Company’s good faith estimate of the date of filing of, and ending on a date that is [one hundred eighty (180)] days after the effective date of, a Company-initiated registration, provided that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; (ii) after the Company has effected [one  - two] registration[s] pursuant to Subsection 2.1(a); or (iii) if the Initiating Holders propose to dispose of shares of Registrable Securities that may be immediately registered on Form S-3 pursuant to a request made pursuant to Subsection 2.1(b).  The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(b) (i) during the period that is [thirty (30)] days before the Company’s good faith estimate of the date of filing of, and ending on a date that is [ninety (90)] days after the effective date of, a Company-initiated registration, provided that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; or (ii) if the Company has effected [two] registration[s] pursuant to Subsection 2.1(b) within the twelve (12) month period immediately preceding the date of such request.  A registration shall not be counted as “effected” for purposes of this Subsection 2.1(d) until such time as the applicable registration statement has been declared effective by the SEC, unless the Initiating Holders withdraw their request for such registration, elect not to pay the registration expenses therefor, and forfeit their right to one demand registration statement pursuant to Subsection 2.6, in which case such withdrawn registration statement shall be counted as “effected” for purposes of this Subsection 2.1(d).
 
-2.1.=[Z/Sec/s4]
+2.1.=[Z/ol/s4]
 
 2.2.Ti=Company Registration
 
@@ -130,7 +130,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.3.3.sec=(c)	[For purposes of Subsection 2.1, a registration shall not be counted as “effected” if, as a result of an exercise of the underwriter’s cutback provisions in Subsection 2.3(a), fewer than [fifty percent (50%)] of the total number of Registrable Securities that Holders have requested to be included in such registration statement are actually included.]
 
-2.3.=[Z/Sec/s3]
+2.3.=[Z/ol/s3]
 
 2.4.Ti=Obligations of the Company
 
@@ -158,7 +158,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.4.90.sec=In addition, the Company shall ensure that, at all times after any registration statement covering a public offering of securities of the Company under the Securities Act shall have become effective, its insider trading policy shall provide that the Company’s directors may implement a trading program under Rule 10b5-1 of the Exchange Act.
 
-2.4.=[Z/Sec/10]
+2.4.=[Z/ol/10]
 
 2.5.Ti=Furnish Information
 
@@ -188,7 +188,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.8.6.sec=(f)	Unless otherwise superseded by an underwriting agreement entered into in connection with the underwritten public offering, the obligations of the Company and Holders under this Subsection 2.8 shall survive the completion of any offering of Registrable Securities in a registration under this Section 2, and otherwise shall survive the termination of this Agreement. 
 
-2.8.=[Z/Sec/s6]
+2.8.=[Z/ol/s6]
 
 2.9.Ti=Reports Under Exchange Act
 
@@ -200,7 +200,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.9.3.sec=(c)	furnish to any Holder, so long as the Holder owns any Registrable Securities, forthwith upon request (i) to the extent accurate, a written statement by the Company that it has complied with the reporting requirements of SEC Rule 144 (at any time after ninety (90) days after the effective date of the registration statement filed by the Company for the IPO), the Securities Act, and the Exchange Act (at any time after the Company has become subject to such reporting requirements), or that it qualifies as a registrant whose securities may be resold pursuant to Form S 3 (at any time after the Company so qualifies); [(ii) a copy of the most recent annual or quarterly report of the Company and such other reports and documents so filed by the Company;] and (iii) such other information as may be reasonably requested in availing any Holder of any rule or regulation of the SEC that permits the selling of any such securities without registration (at any time after the Company has become subject to the reporting requirements under the Exchange Act) or pursuant to Form S 3 (at any time after the Company so qualifies to use such form).
 
-2.9.=[Z/Sec/s3]
+2.9.=[Z/ol/s3]
 
 2.10.Ti=Limitations on Subsequent Registration Rights
 
@@ -222,11 +222,11 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.12.2.90.sec=The Holders consent to the Company making a notation in its records and giving instructions to any transfer agent of the Restricted Securities in order to implement the restrictions on transfer set forth in this Subsection 2.12.
 
-2.12.2.=[Z/Sec/s2]
+2.12.2.=[Z/ol/s2]
 
 2.12.3.sec=(c)	The holder of such Restricted Securities, by acceptance of ownership thereof, agrees to comply in all respects with the provisions of this Section 2.  Before any proposed sale, pledge, or transfer of any Restricted Securities, unless there is in effect a registration statement under the Securities Act covering the proposed transaction, the Holder thereof shall give notice to the Company of such Holder’s intention to effect such sale, pledge, or transfer.  Each such notice shall describe the manner and circumstances of the proposed sale, pledge, or transfer in sufficient detail and, if reasonably requested by the Company, shall be accompanied at such Holder’s expense by either (i) a written opinion of legal counsel who shall, and whose legal opinion shall, be reasonably satisfactory to the Company, addressed to the Company, to the effect that the proposed transaction may be effected without registration under the Securities Act; (ii) a “no action” letter from the SEC to the effect that the proposed  sale, pledge, or transfer of such Restricted Securities without registration will not result in a recommendation by the staff of the SEC that action be taken with respect thereto; or (iii) any other evidence reasonably satisfactory to counsel to the Company to the effect that the proposed sale, pledge, or transfer of the Restricted Securities may be effected without registration under the Securities Act, whereupon the Holder of such Restricted Securities shall be entitled to sell, pledge, or transfer such Restricted Securities in accordance with the terms of the notice given by the Holder to the Company.  The Company will not require such a legal opinion or “no action” letter (x) in any transaction in compliance with SEC Rule 144; or (y) in any transaction in which such Holder distributes Restricted Securities to an Affiliate of such Holder for no consideration; provided that each transferee agrees in writing to be subject to the terms of this Subsection 2.12.  Each certificate, instrument, or book entry representing the Restricted Securities transferred as above provided shall be notated with, except if such transfer is made pursuant to SEC Rule 144, the appropriate restrictive legend set forth in Subsection 2.12(b), except that such certificate instrument, or book entry shall not be notated with such restrictive legend if, in the opinion of counsel for such Holder and the Company, such legend is not required in order to establish compliance with any provisions of the Securities Act.
 
-2.12.=[Z/Sec/s3]
+2.12.=[Z/ol/s3]
 
 2.13.Ti=Termination of Registration Rights
 
@@ -238,9 +238,9 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.13.3.sec=(c)	the [__________] anniversary of the [IPO][Alternative: date of this Agreement].
 
-2.13.=[Z/Sec/s3]
+2.13.=[Z/ol/s3]
 
-2.=[Z/Sec/13]
+2.=[Z/ol/13]
 
 3.Ti=Information and Observer Rights
 
@@ -281,7 +281,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 3.5.sec=Each Investor agrees that such Investor will keep confidential and will not disclose, divulge, or use for any purpose (other than to monitor its investment in the Company) any confidential information obtained from the Company pursuant to the terms of this Agreement (including notice of the Company’s intention to file a registration statement), unless such confidential information (a) is known or becomes known to the public in general (other than as a result of a breach of this Subsection 3.5 by such Investor), (b) is or has been independently developed or conceived by the Investor without use of the Company’s confidential information, or (c) is or has been made known or disclosed to the Investor by a third party without a breach of any obligation of confidentiality such third party may have to the Company; provided, however, that an Investor may disclose confidential information (i) to its attorneys, accountants, consultants, and other professionals to the extent necessary to obtain their services in connection with monitoring its investment in the Company; (ii) to any prospective purchaser of any Registrable Securities from such Investor, if such prospective purchaser agrees to be bound by the provisions of this Subsection 3.5; (iii) to any [existing or prospective] Affiliate, partner, member, stockholder, or wholly owned subsidiary of such Investor in the ordinary course of business, provided that such Investor informs such Person that such information is confidential and directs such Person to maintain the confidentiality of such information; or (iv) as may otherwise be required by law, provided that the Investor promptly notifies the Company of such disclosure and takes reasonable steps to minimize the extent of any such required disclosure.  
 
-3.=[Z/Sec/5]
+3.=[Z/ol/5]
 
 4.Ti=Rights to Future Stock Issuances
 
@@ -311,7 +311,7 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 4.3.sec=The covenants set forth in Subsection 4.1 [and Subsection 4.2] shall terminate and be of no further force or effect (i) immediately before the consummation of the IPO, [(ii) when the Company first becomes subject to the periodic reporting requirements of Section 12(g) or 15(d) of the Exchange Act,] [or (iii) upon a Deemed Liquidation Event, as such term is defined in the Company’s Certificate of Incorporation,] whichever event occurs first [and, as to each Major Investor, in accordance with Subsection 4.1(e)]. 
 
-4.=[Z/Sec/3]
+4.=[Z/ol/3]
 
 5.Ti=Additional Covenants
 
@@ -385,7 +385,7 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 5.12.sec=The covenants set forth in this Section 5, except for Subsection[s] 5.7 [and 5.8], shall terminate and be of no further force or effect [(i)] immediately before the consummation of the IPO [or][(ii) when the Company first becomes subject to the periodic reporting requirements of Section 12(g) or 15(d) of the Exchange Act, or (iii) upon a Deemed Liquidation Event, as such term is defined in the Company’s Certificate of Incorporation, whichever event occurs first].
 
-5.=[Z/Sec/12]
+5.=[Z/ol/12]
 
 6.Ti=Miscellaneous
 
@@ -449,7 +449,7 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 6.11.4.sec=[Each party will bear its own costs in respect of any disputes arising under this Agreement.]  [The prevailing party shall be entitled to reasonable attorney’s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.]  Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of [_____] or any court of the [State][Commonwealth] of [state] having subject matter jurisdiction.]
 
-6.11.=[Z/Sec/4]
+6.11.=[Z/ol/4]
 
 6.12.Ti=Delays or Omissions
 
@@ -459,7 +459,7 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 6.13.sec=The Company acknowledges that the Investors are in the business of venture capital investing and therefore review the business plans and related proprietary information of many enterprises, including enterprises which may have products or services which compete directly or indirectly with those of the Company.  Nothing in this Agreement shall preclude or in any way restrict the Investors from investing or participating in any particular enterprise whether or not such enterprise has products or services which compete with those of the Company.
 
-6.=[Z/Sec/13]
+6.=[Z/ol/13]
 
 [Remainder of Page Intentionally Left Blank]
 
@@ -479,6 +479,6 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 90.=[Z/paras/s7]
 
-=[Z/Sec/6]
+=[Z/ol/6]
 
 DocBody={Doc}

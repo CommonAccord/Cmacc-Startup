@@ -26,7 +26,7 @@ Ti=TERMS AND CONDITIONS
 
 1.2.2.B.cl=in accordance with Company's standard practice
 
-1.=[Z/Sec/s2]
+1.=[Z/ol/s2]
 
 2.Ti=Restrictions and Responsibilities
 
@@ -50,7 +50,7 @@ Note=many larger customers resist these types of indemnity clauses.  The decisio
 
 2.4.sec=Customer shall be responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Services, including, without limitation, modems, hardware, servers, software, operating systems, networking, web servers and the like (collectively, "Equipment").  Customer shall also be responsible for maintaining the security of the Equipment, Customer account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of Customer account or the Equipment with or without Customer's knowledge or consent.
 
-2.=[Z/Sec/s4] 
+2.=[Z/ol/s4] 
 
 3.Ti=Confidentiality; Proprietary Rights
 
@@ -76,7 +76,7 @@ Note= it is important to determine what data rights are necessary for the compan
 
 3.3.2.Sen=No rights or licenses are granted except as expressly set forth herein.   
 
-3.=[Z/Sec/s3] 
+3.=[Z/ol/s3] 
 
 
 4.Ti=Payment of Fees
@@ -86,7 +86,7 @@ Note= it is important to determine what data rights are necessary for the compan
 4.2.sec=Company may choose to bill through an invoice, in which case, full payment for invoices issued in any given month must be received by Company thirty (30) days after the mailing date of the invoice.  Unpaid amounts are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Service. Customer shall be responsible for all taxes associated with Services other than U.S. taxes based on Company's net income.  
 
 
-4.=[Z/Sec/s2] 
+4.=[Z/ol/s2] 
 
 5.Ti=Term and Termination
 
@@ -103,7 +103,7 @@ Note=Confirm appropriate language for customer  data retrieval upon termination,
 5.2.3.Sen=All sections of this Agreement which by their nature should survive termination will survive termination, including, without limitation, accrued rights to payment, confidentiality obligations, warranty disclaimers, and limitations of liability.
 
 
-5.=[Z/Sec/s2] 
+5.=[Z/ol/s2] 
 
 6.Ti=Warranty and Disclaimer
 
@@ -148,7 +148,7 @@ Misc.Press.Sen=The parties shall work together in good faith to issue at least o
 Note=OPTIONAL: there are several variations on these concepts that could be used as a starting point, but start-ups should typically expect resistance from large customers on these points]
 
 
-=[Z/Sec/9] 
+=[Z/ol/9] 
  
 EXHIBIT A
 
@@ -166,7 +166,7 @@ SLA.3.sec=Providing documentation
 
 SLA.4.sec=Custom development work (one-time)
 
-SLA.=[Z/Sec/s4]
+SLA.=[Z/ol/s4]
 
  
 EXHIBIT B
@@ -191,4 +191,4 @@ Support.2.sec=Customer may initiate a helpdesk ticket during Support Hours by ca
 
 Support.3.sec=Company will use commercially reasonable efforts to respond to all Helpdesk tickets within one (1) business day.
 
-Support.=[Z/Sec/s3]
+Support.=[Z/ol/s3]

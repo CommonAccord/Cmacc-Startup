@@ -8,4 +8,4 @@ Waive.Sen=It is further agreed that any waiver, permit, consent or approval of a
 
 Cumulative.Sen=All remedies, either under {this_Agreement}, or by law or otherwise afforded to the {Purchaser}, shall be cumulative and not alternative.
 
-=[Z/Sec/1]
+=[Z/ol/1]

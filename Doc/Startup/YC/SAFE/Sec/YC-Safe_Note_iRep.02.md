@@ -6,4 +6,4 @@ InvestmentPurpose.=[Startup/YC/SAFE/Sec/YC-Safe_Note_iRep_InvestmentPurpose.01.m
 
 Secs={Authority.Sec}<li>{InvestmentPurpose.Sec}
 
-=[Z/Sec/2]
+=[Z/ol/2]

@@ -38,7 +38,7 @@ Note=Also, if additional fees will be required for overages, include details her
 
 6.2.sec=Implementation Fee (one-time) {ImplementationFee.$}
 
-6.=[Z/Sec/s2]
+6.=[Z/ol/s2]
 
 Note=OPTIONAL: If you delete this section, remove any reference to "Implementation Services" in the Terms and Conditions
 
@@ -52,11 +52,11 @@ Note=OPTIONAL:  delete this section if you are not offering a pilot
 
 7.3.sec=Pilot Use Fee: {PilotUse.Fee.$}
 
-7.=[Z/Sec/s3]
+7.=[Z/ol/s3]
 
 =[Z/Agt/Agt.md]
 
-=[Z/Sec/7]
+=[Z/ol/7]
 
 DocBody={Doc}
 

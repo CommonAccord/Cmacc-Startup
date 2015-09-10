@@ -22,7 +22,7 @@ Ti={Co.Name.Full} Restated Certificate of Incorporation
 
 3.xlist={3.Nlist}
 
-3.=[Z/Sec/s3]
+3.=[Z/ol/s3]
 
 4.Ti=ARTICLE IV: PURPOSE
 
@@ -39,7 +39,7 @@ Ti={Co.Name.Full} Restated Certificate of Incorporation
 
 5.ol=ol type="A"
 
-5.=[Z/Sec/2]
+5.=[Z/ol/2]
 
 6.Ti=ARTICLE VI: PREEMPTIVE RIGHTS
 
@@ -70,7 +70,7 @@ Ti={Co.Name.Full} Restated Certificate of Incorporation
 
 8.ol=ol type="A"
 
-8.=[Z/Sec/4]
+8.=[Z/ol/4]
 
 9.Ti=ARTICLE IX: DIRECTOR LIABILITY
 
@@ -88,13 +88,13 @@ Ti={Co.Name.Full} Restated Certificate of Incorporation
 
 9.ol=ol type="A"
 
-9.=[Z/Sec/3]
+9.=[Z/ol/3]
 
 10.Ti=ARTICLE X: CORPORATE OPPORTUNITIES
 
 10.sec=The Corporation renounces any interest or expectancy of the Corporation in, or in being offered an opportunity to participate in, or in being informed about, an Excluded Opportunity. "Excluded Opportunity" means any matter, transaction or interest that is presented to, or acquired, created or developed by, or which otherwise comes into the possession of, (i) any director of the Corporation who is not an employee of the Corporation or any of its subsidiaries, or (ii) any holder of Preferred Stock or any affiliate, partner, member, director, stockholder, employee, agent or other related person of any such holder, other than someone who is an employee of the Corporation or any of its subsidiaries (a "Covered Person"), unless such matter, transaction or interest is presented to, or acquired, created or developed by, or otherwise comes into the possession of, a Covered Person expressly and solely in such Covered Person's capacity as a director of the Corporation.
 
-=[Z/Sec/10]
+=[Z/ol/10]
 
 xlist={Blist}
 

@@ -18,4 +18,4 @@ Ti=Miscellaneous
 
 9.=[Startup/Techstars/NotePurchase/Sec/TechStars_NotePurchase_Misc_Entire.01.md]
 
-=[Z/Sec/9]
+=[Z/ol/9]

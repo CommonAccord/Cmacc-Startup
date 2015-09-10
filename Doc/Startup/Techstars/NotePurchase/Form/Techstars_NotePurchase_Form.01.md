@@ -26,10 +26,10 @@ iRep.Xref=Section 4
 
 6.=[Startup/Techstars/NotePurchase/Sec/TechStars_NotePurchase_Misc.01.md]
 
-90.=[Bit/Agt/Agt_End.md]
+90.=[Z/Agt/Agt_End.md]
 
 DocBody={Doc}
 
-=[Z/Sec/6]
+=[Z/ol/6]
 
 =[Startup/Techstars/NotePurchase/Sec/DT_TechStars.01.md]

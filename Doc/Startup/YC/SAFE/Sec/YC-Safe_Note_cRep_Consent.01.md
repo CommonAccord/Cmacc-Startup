@@ -12,4 +12,4 @@ SecuritiesLaws.cl=any qualifications or filings under applicable securities laws
 
 StockApproval.cl=necessary corporate approvals for the authorization of {Capital_Stock} issuable pursuant to {Event.Xref}
 
-=[Z/Sec/0]
+=[Z/ol/0]

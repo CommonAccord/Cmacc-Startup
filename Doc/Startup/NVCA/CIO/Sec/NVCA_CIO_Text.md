@@ -19,7 +19,7 @@
 
 4.2.=[Startup/NVCA/CIO/Sec/NVCA_CIO_Sec_Pref.md]
 
-4.=[Z/Sec/2]
+4.=[Z/ol/2]
 
 5.Ti=FIFTH
 
@@ -66,4 +66,4 @@
 
 13.sec=[For purposes of Section 500 of the California Corporations Code (to the extent applicable), in connection with any repurchase of shares of Common Stock permitted under this Certificate of Incorporation from employees, officers, directors or consultants of the Company in connection with a termination of employment or services pursuant to agreements or arrangements approved by the Board of Directors (in addition to any other consent required under this Certificate of Incorporation), such repurchase may be made without regard to any “preferential dividends arrears amount” or “preferential rights amount” (as those terms are defined in Section 500 of the California Corporations Code).  Accordingly, for purposes of making any calculation under California Corporations Code Section 500 in connection with such repurchase, the amount of any “preferential dividends arrears amount” or “preferential rights amount” (as those terms are defined therein) shall be deemed to be zero (0).]
 
-=[Z/Sec/13]
+=[Z/ol/13]

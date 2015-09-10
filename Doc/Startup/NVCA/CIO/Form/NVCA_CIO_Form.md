@@ -7,7 +7,7 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 
 0.90.sec=DOES HEREBY CERTIFY:
 
-0.=[Z/Sec/s2]
+0.=[Z/ol/s2]
 
 1.sec=That the name of this corporation is {_______________}, and that this corporation was originally incorporated pursuant to the General Corporation Law on {________ __, 20__} under the name {_______________}.
 

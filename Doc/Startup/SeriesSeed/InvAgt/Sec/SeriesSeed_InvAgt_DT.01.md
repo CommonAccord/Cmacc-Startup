@@ -1,4 +1,4 @@
-=[Bit/Agt/DT_Base.md]
+=[Z/Agt/DT_Base.md]
 
 /Note=See https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md
 
@@ -191,5 +191,3 @@ Unallocated_Post-Money_Option_Pool_Percent={d-}Unallocated Post-Money Option Poo
 Unallocated_Post-Money_Option_Pool_Shares={d-}Unallocated Post-Money Option Pool{-d}
 
 Voting_Shares={d-}Voting Shares{-d}
-
-dPageName=Startup/SeriesSeed/InvAgt/Sec/SeriesSeed_InvAgt_DT.01.md

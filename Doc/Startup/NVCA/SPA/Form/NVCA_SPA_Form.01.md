@@ -22,7 +22,7 @@ Ftn2=<a href="#_ftn2" name="_ftnref" title="">[2]</a>
 
 1.1.2.sec=Subject to the terms and conditions of {this_Agreement}, each {Purchaser} agrees to purchase at the {Closing} and the {Company} agrees to sell and issue to each {Purchaser} at the {Closing} that number of shares of Series A Preferred Stock, $ {ParValue_SeriesA_Shares} par value per share (the <strong>"{Series_A_Preferred_Stock}</strong>"), set forth opposite each {Purchaser}'s name on Exhibit A, at a purchase price of ${Purchase_Price_Per_Share_SeriesA} per share. The shares of {Series_A_Preferred_Stock} issued to the {Purchasers} pursuant to {this_Agreement} (including any shares issued at the {Initial_Closing} and any {Milestone_or_Additional_Shares}, as defined below) shall be referred to in {this_Agreement} as the "<strong>{Shares}</strong>."
 
-1.1.=[Z/Sec/s2]
+1.1.=[Z/ol/s2]
 
 1.2.Ti={Closing}; Delivery
 
@@ -38,7 +38,7 @@ Ftn4=<a href="#_ftn4" name="_ftnref" title="">[4]</a>
 
 Ftn5=<a href="#_ftn5" name="_ftnref" title="">[5]</a>
 
-1.2.=[Z/Sec/s2]
+1.2.=[Z/ol/s2]
 
 1.3.Ti=Sale of {Additional_Shares} of Preferred Stock
 
@@ -62,7 +62,7 @@ Ftn7=<a href="#_ftn7" name="_ftnref" title="">[7]</a>
 
 Ftn8=<a href="#_ftn8" name="_ftnref" title="">[8]</a>]
 
-1.3.=[Z/Sec/s2]
+1.3.=[Z/ol/s2]
 
 1.4.Ti=Use of Proceeds
 
@@ -126,9 +126,9 @@ Ftn13=<a href="#_ftn13" name="_ftnref" title=""><sup>[13]</sup></a>
 
 1.5.17.sec="<strong>{Voting _Agreement}</strong>" means the agreement among the {Company}, the {Purchasers} and certain other stockholders of the {Company}, dated as of the date of the {Initial_Closing}, in the form of <u>Exhibit H</u> attached to {this_Agreement}.
 
-1.5.=[Z/Sec/s17]
+1.5.=[Z/ol/s17]
 
-1.=[Z/Sec/5]
+1.=[Z/ol/5]
 
 2.=[Startup/NVCA/SPA/Sec/NVCA_SPA_Sec_cRep.01.md]
 
@@ -176,7 +176,7 @@ Ftn47=<a href="#_ftn47" name="_ftnref" title="">[47]</a>
 
 3.6.3.sec=Any legend required by the securities laws of any state to the extent such laws are applicable to the {Shares} represented by the certificate, instrument, or book entry so legended.
 
-3.6..=[Z/Sec/s3]
+3.6..=[Z/ol/s3]
 
 3.7.Ti=Accredited Investor
 
@@ -206,7 +206,7 @@ Ftn49=<a href="#_ftn49" name="_ftnref" title="">[49]</a>
 
 3.12.sec=Each {Purchaser}, to the extent that such {Purchaser}, as set forth on the Schedule of {Purchasers}, is a holder of any promissory note of the {Company} being converted and/or cancelled in consideration of the issuance hereunder of {Shares} to such {Purchaser}, hereby agrees that the entire amount owed to such {Purchaser} under such note is being tendered to the {Company} in exchange for the applicable {Shares} set forth on the Schedule of {Purchasers}, and effective upon the {Company}'s and such {Purchaser}'s execution and delivery of {this_Agreement}, without any further action required by the {Company} or such {Purchaser}, such note and all obligations set forth therein shall be immediately deemed repaid in full and terminated in their entirety, including, but not limited to, any security interest effected therein.
 
-3.=[Z/Sec/12]
+3.=[Z/ol/12]
 
 Ftn50=<a href="#_ftn50" name="_ftnref" title="">[50]</a>
 
@@ -292,7 +292,7 @@ Fnt54=<a href="#_ftn54" name="_ftnref" title="">[54]</a>
 
 Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
-4.=[Z/Sec/17]
+4.=[Z/ol/17]
 
 
 5.Ti=Conditions of the {Company}'s Obligations at {Closing}
@@ -327,7 +327,7 @@ Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
 5.7.sec=A minimum of [_______] {Shares} must be sold at the {Initial_Closing}.
 
-5.=[Z/Sec/7]
+5.=[Z/ol/7]
 
 6.Ti=Miscellaneous
 
@@ -411,7 +411,7 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 
 6.15.4.sec=[Each party will bear its own costs in respect of any disputes arising under {this_Agreement}.] [The prevailing party shall be entitled to reasonable attorney's fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.]  Each of the parties to {this_Agreement} consents to personal jurisdiction for any equitable action sought in {Dispute.Forum.cl} having subject matter jurisdiction.]
 
-6.15.=[Z/Sec/s4]
+6.15.=[Z/ol/s4]
 
 6.16.Ti=No Commitment for Additional Financing
 
@@ -421,11 +421,11 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 
 6.17.sec=Each party to {this_Agreement} acknowledges that {P1.Atty.Handle}, counsel for the {Company}, has in the past performed and may continue to perform legal services for certain of the {Purchasers} in matters unrelated to the transactions described in {this_Agreement}, including the representation of such {Purchasers} in venture capital financings and other matters. Accordingly, each party to {this_Agreement} hereby (a) acknowledges that they have had an opportunity to ask for information relevant to this disclosure; and (b) gives its informed consent to {P1.Atty.Handle}'s representation of certain of the {Purchasers} in such unrelated matters and to {P1.Atty.Handle}'s representation of the {Company} in connection with {this_Agreement} and the transactions contemplated hereby.
 
-6.=[Z/Sec/17]
+6.=[Z/ol/17]
 
 90.Signature.InWitness=IN WITNESS WHEREOF, the parties have executed this {Series_A_Preferred_Stock} Purchase {Agreement} as of the date first written above.
 
-=[Z/Sec/6]
+=[Z/ol/6]
 
 DocBody={Doc}
 

@@ -22,7 +22,7 @@ Ti=Series Seed Preferred Stock Investment Agreement
 
 90.sec=<hr><hr><h3>{Exhibit_A}<br>Definitions</h3><hr>{ExhA.Model.Root}<hr><hr><h3>{Schedule_1}<br>Purchasers and Key Holders</h3><hr>{Sch1.Model.Root}<hr><hr><h3>{Exhibit_B}<br>Agreement Terms</h3><hr>{ExhB.Model.Root}<hr><hr><h3>Signature Pages</h3><hr>{Sign.Model.Root}<hr><hr><h3>{Exhibit_C}<br>Form of Restated Charter</h3><hr>{ExhC.Model.Root}<hr><hr><h3>{Exhibit_D}<br>Disclosure Schedule</h3><hr>{ExhD.Model.Root}
 
-=[Z/Sec/3]
+=[Z/ol/3]
 
 DocBody={Doc}
 

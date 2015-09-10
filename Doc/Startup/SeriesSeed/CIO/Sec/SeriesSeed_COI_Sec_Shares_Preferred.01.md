@@ -22,15 +22,15 @@ Ti=Preferred Stock
 
 1.3.1.2.sec=the sale, lease, transfer, exclusive license or other disposition, in a single transaction or series of related transactions, by the Corporation or any subsidiary of the Corporation of all or substantially all the assets of the Corporation and its subsidiaries taken as a whole, or, if substantially all of the assets of the Corporation and its subsidiaries taken as a whole are held by such subsidiary or subsidiaries, the sale or disposition (whether by merger or otherwise) of one or more subsidiaries of the Corporation, except where such sale, lease, transfer or other disposition is to the Corporation or one or more wholly owned subsidiaries of the Corporation.  
 
-1.3.1.=[Z/Sec/s2]
+1.3.1.=[Z/ol/s2]
 
 1.3.2.Ti=Amount Deemed Paid or Distributed
 
 1.3.2.sec=The funds and assets deemed paid or distributed to the holders of capital stock of the Corporation upon any such merger, consolidation, sale, transfer or other disposition described in this Section 1.3 will be the cash or the value of the property, rights or securities paid or distributed to such holders by the Corporation or the acquiring person, firm or other entity.  The value of such property, rights or securities shall be determined in good faith by the Board. 
 
-1.3.=[Z/Sec/2]
+1.3.=[Z/ol/2]
 
-1.=[Z/Sec/3]
+1.=[Z/ol/3]
 
 2.Ti=Voting
 
@@ -59,9 +59,9 @@ Ti=Preferred Stock
 
 2.3.7.sec=liquidate, dissolve, or wind-up the business and affairs of the Corporation, effect any Deemed Liquidation Event, or consent, agree or commit to do any of the foregoing without conditioning such consent, agreement or commitment upon obtaining the approval required by this Section 2.3.
 
-2.3.=[Z/Sec/s7]
+2.3.=[Z/ol/s7]
 
-2.=[Z/Sec/3]
+2.=[Z/ol/3]
 
 
 3.Ti=Conversion
@@ -79,7 +79,7 @@ Ti=Preferred Stock
 
 3.1.2.sec=Subject to Section 3.3.1 in the case of a Contingency Event herein, in the event of a liquidation, dissolution, or winding up of the Corporation or a Deemed Liquidation Event, the Conversion Rights will terminate at the close of business on the last full day preceding the date fixed for the first payment of any funds and assets distributable on such event to the holders of Preferred Stock.
 
-3.1.=[Z/Sec/2]
+3.1.=[Z/ol/2]
 
 3.2.Ti=Fractional Shares
 
@@ -103,7 +103,7 @@ Ti=Preferred Stock
 
 3.3.4.sec=Upon any conversion of shares of Preferred Stock, no adjustment to the Conversion Price of the applicable series of Preferred Stock will be made with respect to the converted shares for any declared but unpaid dividends on such series of Preferred Stock or on the Common Stock delivered upon conversion.
 
-3.3.=[Z/Sec/4]
+3.3.=[Z/ol/4]
 
 3.4.Ti=Adjustment for Stock Splits and Combinations
 
@@ -119,7 +119,7 @@ Ti=Preferred Stock
 
 3.5.90.sec=Notwithstanding the foregoing, (i) if such record date has have been fixed and the dividend is not fully paid or if such distribution is not fully made on the date fixed therefor, such Conversion Price shall be recomputed accordingly as of the close of business on such record date and thereafter such Conversion Price shall be adjusted pursuant to this Section 3.5 as of the time of actual payment of such dividends or distributions; and (ii) no such adjustment shall be made if the holders of such series of Preferred Stock simultaneously receive a dividend or other distribution of shares of Common Stock in a number equal to the number of shares of Common Stock that they would have received if all outstanding shares of such series of Preferred Stock had been converted into Common Stock on the date of the event.
 
-3.5.=[Z/Sec/s2]
+3.5.=[Z/ol/s2]
 
 3.6.Ti=Adjustments for Other Dividends and Distributions
 
@@ -144,7 +144,7 @@ Ti=Preferred Stock
 
 3.11.sec=The Corporation shall notify in writing all holders of record of shares of Preferred Stock of the Mandatory Conversion Time and the place designated for mandatory conversion of all such shares of Preferred Stock pursuant to Section 3.10.  Unless otherwise provided in this Restated Certificate, the notice need not be sent in advance of the occurrence of the Mandatory Conversion Time.  Upon receipt of the notice, each holder of shares of Preferred Stock shall surrender such holder's certificate or certificates for all such shares (or, if such holder alleges that such certificate has been lost, stolen or destroyed, a lost certificate affidavit and agreement reasonably acceptable to the Corporation to indemnify the Corporation against any claim that may be made against the Corporation on account of the alleged loss, theft or destruction of such certificate) to the Corporation at the place designated in such notice, and shall thereafter receive certificates for the number of shares of Common Stock to which such holder is entitled pursuant to this Section 3.  If so required by the Corporation, certificates surrendered for conversion shall be endorsed or accompanied by written instrument or instruments of transfer, in form reasonably satisfactory to the Corporation, duly executed by the registered holder or such holder's attorney duly authorized in writing.  All rights with respect to the Preferred Stock converted pursuant to Section 3.10, including the rights, if any, to receive notices and vote (other than as a holder of Common Stock), will terminate at the Mandatory Conversion Time (notwithstanding the failure of the holder or holders thereof to surrender the certificates at or prior to such time), except only the rights of the holders thereof, upon surrender of their certificate or certificates (or lost certificate affidavit and agreement) therefor, to receive the items provided for in the next sentence of this Section 3.11.  As soon as practicable after the Mandatory Conversion Time and the surrender of the certificate or certificates (or lost certificate affidavit and agreement) for Preferred Stock, the Corporation shall issue and deliver to such holder, or to such holder's nominee(s), a certificate or certificates for the number of full shares of Common Stock issuable on such conversion in accordance with the provisions hereof, together with cash as provided in Section 3.2 in lieu of any fraction of a share of Common Stock otherwise issuable upon such conversion and the payment of any declared but unpaid dividends on the shares of Preferred Stock converted.  Such converted Preferred Stock shall be retired and cancelled and may not be reissued as shares of such series, and the Corporation may thereafter take such appropriate action (without the need for stockholder action) as may be necessary to reduce the authorized number of shares of Preferred Stock (and the applicable series thereof) accordingly.  
 
-3.=[Z/Sec/11]
+3.=[Z/ol/11]
 
 4.Ti=Dividends
 
@@ -170,10 +170,10 @@ Ti=Preferred Stock
 
 7.90.sec=then, and in each such case, the Corporation shall send or cause to be sent to the holders of the Preferred Stock a written notice specifying, as the case may be, (i) the record date for such dividend, distribution, or right, and the amount and character of such dividend, distribution or right, or (ii) the effective date on which such reorganization, reclassification, consolidation, merger, transfer, dissolution, liquidation or winding-up is proposed to take place, and the time, if any is to be fixed, as of which the holders of record of Common Stock (or such other capital stock or securities at the time issuable upon the conversion of the Preferred Stock) will be entitled to exchange their shares of Common Stock (or such other capital stock or securities) for securities or other property deliverable upon such reorganization, reclassification, consolidation, merger, transfer, dissolution, liquidation or winding-up, and the amount per share and character of such exchange applicable to the Preferred Stock and the Common Stock.  The Corporation shall send the notice at least 20 days before  the earlier of the record date or effective date for the event specified in the notice.
 
-7.=[Z/Sec/s3]
+7.=[Z/ol/s3]
 
 8.Ti=Notices
 
 8.sec=Except as otherwise provided herein, any notice required or permitted by the provisions of this Article V to be given to a holder of shares of Preferred Stock must be mailed, postage prepaid, to the post office address last shown on the records of the Corporation, or given by electronic communication in compliance with the provisions of the General Corporation Law, and will be deemed sent upon such mailing or electronic transmission. 
 
-=[Z/Sec/8]
+=[Z/ol/8]

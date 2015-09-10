@@ -10,7 +10,7 @@ Ti=Mandatory Conversion
 
 1.90.sec=then (i) all outstanding shares of Series A Preferred Stock shall automatically be converted into shares of Common Stock, at the then effective conversion rate as calculated pursuant to Subsection 4.1.1. and (ii) such shares may not be reissued by the Corporation.
 
-1.=[Z/Sec/s2]
+1.=[Z/ol/s2]
 
 2.Ti=Procedural Requirements
 
@@ -32,10 +32,10 @@ Ti=Mandatory Conversion
 
 2.6.xlist={2.6.alist}
 
-2.6.=[Z/Sec/s2]
+2.6.=[Z/ol/s2]
 
 2.7.sec=Such converted Series A Preferred Stock shall be retired and cancelled and may not be reissued as shares of such series, and the Corporation may thereafter take such appropriate action (without the need for stockholder action) as may be necessary to reduce the authorized number of shares of Series A Preferred Stock accordingly.
 
-2.=[Z/Sec/s7]
+2.=[Z/ol/s7]
 
-=[Z/Sec/2]
+=[Z/ol/2]

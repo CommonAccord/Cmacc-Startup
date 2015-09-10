@@ -16,4 +16,4 @@ Ti=Representations and Warranties of {the_Company}
 
 8.=[Startup/Techstars/NotePurchase/Sec/TechStars_NotePurchase_cRep_UseOfProceeds.01.md]
 
-=[Z/Sec/8]
+=[Z/ol/8]

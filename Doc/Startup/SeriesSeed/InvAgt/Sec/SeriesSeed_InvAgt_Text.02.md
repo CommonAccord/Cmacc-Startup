@@ -10,7 +10,7 @@ Ti=Agreement Terms
 
 1.1.2.Sec=Subject to the terms and conditions of {this_Agreement}, each investor listed as a "{Purchaser}" on Schedule 1 (each, a "{Purchaser}") shall purchase at the applicable Closing and {the_Company} agrees to sell and issue to each {Purchaser} at such Closing that number of shares of Series Seed Preferred Stock of {the_Company} ("{Series_Seed_Preferred_Stock}") set forth opposite such {Purchaser}'s name on Schedule 1, at a purchase price per share equal to the {Purchase_Price}. 
 
-1.1.=[Z/Sec/2]
+1.1.=[Z/ol/2]
 
 1.2.Ti=Closing; Delivery
 
@@ -22,9 +22,9 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 1.2.3.Sec=Promptly following each {Closing}, if required by {the_Company}'s governing documents, {the_Company} shall deliver to each {Purchaser} participating in such {Closing} a certificate representing the shares of {Series_Seed_Preferred_Stock} being purchased by such {Purchaser} at such {Closing} against payment of the {Purchase_Price} therefor by check payable to {the_Company}, by wire transfer to a bank account designated by {the_Company}, by cancellation or conversion of indebtedness of {the_Company} to {Purchaser} or by any combination of such methods.
 
-1.2.=[Z/Sec/3]
+1.2.=[Z/ol/3]
 
-1.=[Z/Sec/2]
+1.=[Z/ol/2]
 
 2.Ti=Representations and Warranties of {the_Company}
 
@@ -46,7 +46,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 2.2.3.Sec=The {Key_Holders} set forth in Schedule 1 (each a "{Key_Holder}") hold that number of shares of {Common_Stock} set forth opposite each such {Key_Holder}'s name in Section 2.2.3 of the {Disclosure_Schedule} (such shares, the "{Key_Holders'_Shares}") and such {Key_Holders'_Shares} are subject to vesting and/or {the_Company}'s repurchase right on the terms specified in Section 2.2.3 of the {Disclosure_Schedule} (the "{Key_Holders'_Vesting_Schedules}"). Except as specified in Section 2.2.3 of the {Disclosure_Schedule}, the {Key_Holders} do not own or have any other rights to any other securities of {the_Company}. The {Key_Holders'_Vesting_Schedules} set forth in Section 2.2.3 of the {Disclosure_Schedule} specify for each {Key_Holder} (i) the vesting commencement date for each issuance of shares to or options held by such {Key_Holder}, (ii) the number of shares or options held by such {Key_Holder} that are currently vested, (iii) the number of shares or options held by such {Key_Holder} that remain subject to vesting and/or {the_Company}'s repurchase right and (iv) the terms and conditions, if any, under which the {Key_Holders'_Vesting_Schedules} would be accelerated. Other than the {Key_Holders'_Shares}, which vest pursuant to the applicable {Key_Holders'_Vesting_Schedules}, (x) all options granted and {Common_Stock} outstanding vest as follows: twenty-five percent (25%) of the shares vest one (1) year following the vesting commencement date, with the remaining seventy-five percent (75%) vesting in equal installments over the next three (3) years and (y) no stock plan, stock purchase, stock option or other agreement or understanding between {the_Company} and any holder of any equity securities or rights to purchase equity securities provides for acceleration or other changes in the vesting provisions or other terms of such agreement or understanding as the result of (i) termination of employment (whether actual or constructive), (ii) any merger, consolidated sale of stock or assets, change in control or any other transaction(s) by {the_Company}, or (iii) the occurrence of any other event or combination of events.  
 
-2.2.=[Z/Sec/3]
+2.2.=[Z/ol/3]
 
 2.3.Ti=Subsidiaries
 
@@ -88,7 +88,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 2.12.sec={The_Company} has no liabilities or obligations, contingent or otherwise, in excess of $25,000 individually or $100,000 in the aggregate.  
 
-2.=[Z/Sec/12]
+2.=[Z/ol/12]
 
 
 3.Ti=Representations and Warranties and Covenants of {the_Purchasers}
@@ -121,7 +121,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 3.6.1.Sec="THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF.  NO TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED."
 
-3.6.=[Z/Sec/1]
+3.6.=[Z/ol/1]
 
 3.6.xlist={3.6.Nlist}
 
@@ -141,7 +141,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 3.10.sec=If the {Purchaser} is an individual, then the {Purchaser} resides in the state identified in the address of the {Purchaser} set forth on the signature page hereto and/or on Schedule 1; if the {Purchaser} is a partnership, corporation, limited liability company or other entity, then the office or offices of the {Purchaser} in which its principal place of business is identified in the address or addresses of the {Purchaser} set forth on the signature page hereto and/or on Schedule 1. In the event that the {Purchaser} is not a resident of the United States, such {Purchaser} hereby agrees to make such additional representations and warranties relating to such {Purchaser}'s status as a non-United States resident as reasonably may be requested by {the_Company} and to execute and deliver such documents or agreements as reasonably may be requested by {the_Company} relating thereto as a condition to the purchase and sale of any shares of {Series_Seed_Preferred_Stock} by such {Purchaser}.
 
-3.=[Z/Sec/10]
+3.=[Z/ol/10]
 
 4.Ti=Covenants of {the_Company}
 
@@ -159,7 +159,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 4.1.3.sec={The_Company} shall permit each {Major_Purchaser} to visit and inspect {the_Company}'s properties, to examine its books of account and records and to discuss {the_Company}'s affairs, finances and accounts with its officers, all at such reasonable times as may be requested by such {Major_Purchaser}.
 
-4.1.=[Z/Sec/3]
+4.1.=[Z/ol/3]
 
 4.2.Ti=Additional Rights and Obligations
 
@@ -173,7 +173,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 4.4.sec={The_Company} shall at all times reserve and keep available, solely for issuance and delivery upon the conversion of the {Series_Seed_Preferred_Stock}, all {Common_Stock} issuable from time to time upon conversion of that number of shares of {Series_Seed_Preferred_Stock} equal to the {Total_Shares_Authorized_for_Sale}, regardless of whether or not all such shares have been issued at such time.
 
-4.=[Z/Sec/4]
+4.=[Z/ol/4]
 
 
 5.Ti=Restrictions on Transfer; Drag Along
@@ -188,7 +188,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 5.1.90.Sec=Notwithstanding the provisions of Sections 5.1(a) and (b), no such registration statement or opinion of counsel will be required: (i) for any transfer of any Securities in compliance with the Securities and Exchange Commission's Rule 144 or Rule 144A, or (ii) for any transfer of any Securities by a {Holder} that is a partnership, limited liability company, a corporation, or a venture capital fund to (A) a partner of such partnership, a member of such limited liability company, or stockholder of such corporation, (B) an affiliate of such partnership, limited liability company or corporation (including, any affiliated investment fund of such {Holder}), (C) a retired partner of such partnership or a retired member of such limited liability company, (D) the estate of any such partner, member, or stockholder, or (iii) for the transfer without additional consideration or at no greater than cost by gift, will, or intestate succession by any {Holder} to the {Holder}'s spouse or lineal descendants or ancestors or any trust for any of the foregoing; provided that, in the case of clauses (ii) and (iii), the transferee agrees in writing to be subject to the terms of {this_Agreement} to the same extent as if the transferee were an original {Purchaser} under {this_Agreement}.
 
-5.1.=[Z/Sec/2]
+5.1.=[Z/ol/2]
 
 5.1.Secs={5.1.secs}
 
@@ -214,11 +214,11 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 5.4.5.sec=upon the consummation of the {Proposed_Sale}, (i) each holder of each class or series of {the_Company}'s stock will receive the same form of consideration for their shares of such class or series as is received by other holders in respect of their shares of such same class or series of stock unless the holders of at least a majority of {Series_Seed_Preferred_Stock} elect otherwise,  (ii) each holder of a series of {Series_Seed_Preferred_Stock} will receive the same amount of consideration per share of such series of {Series_Seed_Preferred_Stock} as is received by other holders in respect of their shares of such same series, (iii) each holder of {Common_Stock} will receive the same amount of consideration per share of {Common_Stock} as is received by other holders in respect of their shares of {Common_Stock}, and (iv) unless the holders of at least a majority of the {Series_Seed_Preferred_Stock} elect to receive a lesser amount, the aggregate consideration receivable by all holders of the {Preferred_Stock} and {Common_Stock} shall be allocated among the holders of {Preferred_Stock} and {Common_Stock} on the basis of the relative liquidation preferences to which the holders of each respective series of {Preferred_Stock} and the holders of {Common_Stock} are entitled in a {Deemed_Liquidation_Event} (assuming for this purpose that the {Proposed_Sale} is a {Deemed_Liquidation_Event}) in accordance with {the_Company}'s {Restated_Charter} in effect immediately prior to the {Proposed_Sale}.
 
-5.4.=[Z/Sec/5]
+5.4.=[Z/ol/5]
 
 5.4.Secs={5.4.secs}
 
-5.=[Z/Sec/4]
+5.=[Z/ol/4]
 
 6.Ti=Participation Right
 
@@ -238,7 +238,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 6.4.sec=If the {Major_Purchasers} fail to exercise in full the right of first refusal within the 10-day period, then {the_Company} will have one hundred twenty (120) days thereafter to sell the {New_Securities} with respect to which the {Major_Purchasers}' rights of first refusal hereunder were not exercised, at a price and upon general terms not materially more favorable to the purchasers thereof than specified in {the_Company}'s Notice to the {Major_Purchasers}.  If {the_Company} has not issued and sold the {New_Securities} within the 120-day period, then {the_Company} shall not thereafter issue or sell any {New_Securities} without again first offering those {New_Securities} to the {Major_Purchasers} pursuant to this Section 6.
 
-6.=[Z/Sec/4]
+6.=[Z/ol/4]
 
 7.Ti=Election of Board of Directors
 
@@ -254,9 +254,9 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 7.1.4.sec=Subject to the rights of the stockholders of {the_Company} to remove a director for cause in accordance with applicable law, during the term of {this_Agreement}, a {Stockholder} shall not take any action to remove an incumbent {Board_Designee} or to designate a new {Board_Designee} unless such removal or designation of a {Board_Designee} is approved in a writing signed by the parties entitled to designate the {Board_Designee}. Each {Stockholder} hereby appoints, and shall appoint, the then-current Chief Executive Officer of {the_Company}, as the {Stockholder}'s true and lawful proxy and attorney, with the power to act alone and with full power of substitution, to vote all shares of {the_Company}'s capital stock held by the {Stockholder} as set forth in {this_Agreement} and to execute all appropriate instruments consistent with {this_Agreement} on behalf of the {Stockholder} if, and only if, the {Stockholder} (a) fails to vote or (b) attempts to vote (whether by proxy, in person or by written consent), in a manner which is inconsistent with the terms of {this_Agreement}, all of the {Stockholder}'s {Voting_Shares} or execute such other instruments in accordance with the provisions of {this_Agreement} within five days of {the_Company}'s or any other party's written request for the {Stockholder}'s written consent or signature.  The proxy and power granted by each {Stockholder} pursuant to this Section are coupled with an interest and are given to secure the performance of the {Stockholder}'s duties under {this_Agreement}.  Each such proxy and power will be irrevocable for the term of {this_Agreement}.  The proxy and power, so long as any {Stockholder} is an individual, will survive the death, incompetency and disability of such {Stockholder} and, so long as any {Stockholder} is an entity, will survive the merger or reorganization of the {Stockholder} or any other entity holding {Voting_Shares}.
 
-7.1.=[Z/Sec/4]
+7.1.=[Z/ol/4]
 
-7.=[Z/Sec/1]
+7.=[Z/ol/1]
 
 8.Ti=General Provisions
 
@@ -308,8 +308,8 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 8.12.sec=Each party (a) hereby irrevocably and unconditionally submits to the personal jurisdiction of the {Dispute_Resolution_Jurisdiction} for the purpose of any suit, action, or other proceeding arising out of or based upon {this_Agreement}; (b) shall not commence any suit, action or other proceeding arising out of or based upon {this_Agreement} except in the {Dispute_Resolution_Jurisdiction}; and (c) hereby waives, and shall not assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject to the personal jurisdiction of the {Dispute_Resolution_Jurisdiction}, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that {this_Agreement}, or the subject matter hereof and thereof may not be enforced in or by the {Dispute_Resolution_Jurisdiction}.
 
-8.=[Z/Sec/12]
+8.=[Z/ol/12]
 
-=[Z/Sec/8]
+=[Z/ol/8]
 
 DocBody={Doc}

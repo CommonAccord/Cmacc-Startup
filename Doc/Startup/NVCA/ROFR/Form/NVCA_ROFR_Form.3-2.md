@@ -1,30 +1,33 @@
-Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
+Doc.Title=Amended and Restated Right of First Refusal and Co-Sale Agreement
 
 0.Ti=</i>
 
-0.0.sec=THIS {Ti} (this “Agreement”), is made as of the [__] day of [________, 20__] by and among [_____], a [Delaware] corporation (the “Company”), the Investors listed on Schedule A and the Key Holders listed on Schedule B.
+0.0.sec=THIS {Doc.Title} (this “Agreement”), is made as of the [__] day of [________, 20__] by and among [_____], a [Delaware] corporation (the “Company”), the Investors listed on Schedule A and the Key Holders listed on Schedule B.
 
-0.1.0.sec=Alternative 1:
+0.1.Alt1.1.sec=WHEREAS, each Key Holder is the beneficial owner of the number of shares of Capital Stock, or of options to purchase Common Stock, set forth opposite the name of such Key Holder on Schedule B; 
+
+0.1.Alt1.2.sec=WHEREAS, the Company and the Investors are parties to the [Series A Preferred Stock] Purchase Agreement, of even date herewith (the “Purchase Agreement”), pursuant to which the Investors have agreed to purchase shares of the Series A Preferred Stock of the Company, par value $__ per share (“Series A Preferred Stock”); and
+
+0.1.Alt1.3.sec=WHEREAS, the Key Holders and the Company desire to further induce the Investors to purchase the Series A Preferred Stock;]
+
+0.1.Alt1.=[Z/ol-none/s3]
+
+0.1.Alt2.1.sec=WHEREAS, the Company, the Key Holders and certain of the Investors (the “Prior Investors”) previously entered into [a][an] [Amended and Restated] Right of First Refusal and Co-Sale Agreement, dated [_____ __, 20___] (the “Prior Agreement”), in connection with the purchase of shares of Series [__] Preferred Stock of the Company, par value $__ per share (“Series [__] Preferred Stock”);
+
+0.1.Alt2.2.sec=WHEREAS, the Key Holders, the Prior Investors and the Company desire to induce certain of the Investors to purchase shares of Series [__] Preferred Stock of the Company, par value $___ per share (“Series [___] Preferred Stock”), pursuant to the Series [__] Preferred Stock Purchase Agreement dated as of the date hereof by and among the Company and certain of the Investors (the “Purchase Agreement”) by amending and restating the Prior Agreement to provide the Investors with the rights and privileges as set forth herein.]
+
+0.1.Alt2.=[Z/ol-none/s2]
+
+Note=Setting up the alternatives:
+
+0.1.SecName=0.1
+
+0.1.=[Z/Alt/2]
   
-0.1.1.sec=WHEREAS, each Key Holder is the beneficial owner of the number of shares of Capital Stock, or of options to purchase Common Stock, set forth opposite the name of such Key Holder on Schedule B; 
-
-0.1.2.sec=WHEREAS, the Company and the Investors are parties to the [Series A Preferred Stock] Purchase Agreement, of even date herewith (the “Purchase Agreement”), pursuant to which the Investors have agreed to purchase shares of the Series A Preferred Stock of the Company, par value $__ per share (“Series A Preferred Stock”); and
-
-0.1.3.sec=WHEREAS, the Key Holders and the Company desire to further induce the Investors to purchase the Series A Preferred Stock;]
-
-0.1.=[Z/Sec/s3]
-
-0.2.0.sec=Alternative 2:
-
-0.2.1.sec=WHEREAS, the Company, the Key Holders and certain of the Investors (the “Prior Investors”) previously entered into [a][an] [Amended and Restated] Right of First Refusal and Co-Sale Agreement, dated [_____ __, 20___] (the “Prior Agreement”), in connection with the purchase of shares of Series [__] Preferred Stock of the Company, par value $__ per share (“Series [__] Preferred Stock”);
-
-0.2.2.sec=WHEREAS, the Key Holders, the Prior Investors and the Company desire to induce certain of the Investors to purchase shares of Series [__] Preferred Stock of the Company, par value $___ per share (“Series [___] Preferred Stock”), pursuant to the Series [__] Preferred Stock Purchase Agreement dated as of the date hereof by and among the Company and certain of the Investors (the “Purchase Agreement”) by amending and restating the Prior Agreement to provide the Investors with the rights and privileges as set forth herein.]
-
 0.90.sec=NOW, THEREFORE, the Company, the Key Holders [and][,] the Investors [including the Prior Investors each hereby agree to amend and restate the Prior Agreement in its entirety as set forth herein, and the parties hereto further] agree as follows:
 
-0.2.=[Z/Sec/s2]
+0.=[Z/ol/s1]
 
-0.=[Z/Sec/s2]
 
 1.Ti=Definitions
 
@@ -66,7 +69,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 1.19.sec=“Undersubscription Notice” means written notice from an Investor notifying the Company and the selling Key Holder that such Investor intends to exercise its option to purchase all or any portion of the Transfer Stock not purchased pursuant to the Right of First Refusal or the Secondary Refusal Right.
 
-1.=[Z/Sec/s19]
+1.=[Z/ol/s19]
 
 2.Ti=Agreement Among the Company, the Investors and the Key Holders
 
@@ -96,7 +99,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 2.1.6.sec=If the consideration proposed to be paid for the Transfer Stock is in property, services or other non-cash consideration, the fair market value of the consideration shall be as determined in good faith by the Company’s Board of Directors and as set forth in the Company Notice.  If the Company or any Investor cannot for any reason pay for the Transfer Stock in the same form of non-cash consideration, the Company or such Investor may pay the cash value equivalent thereof, as determined in good faith by the Board of Directors and as set forth in the Company Notice.  The closing of the purchase of Transfer Stock by the Company and the Investors shall take place, and all payments from the Company and the Investors shall have been delivered to the selling Key Holder, by the later of (i) the date specified in the Proposed Transfer Notice as the intended date of the Proposed Key Holder Transfer; and (ii) [forty-five (45)] days after delivery of the Proposed Transfer Notice.
 
-2.1.=[Z/Sec/6]
+2.1.=[Z/ol/6]
 
 2.2.Ti=Right of Co-Sale
 
@@ -119,7 +122,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 2.2.4.2.sec=(ii)	In the event that the Proposed Key Holder Transfer constitutes a Change of Control, the terms of the Purchase and Sale Agreement shall provide that the aggregate consideration from such transfer shall be allocated to the Participating Investors and the selling Key Holder in accordance with Sections 2.1 and 2.2 of Article IV(B) of the Restated Certificate as if (A) such transfer were a Deemed Liquidation Event (as defined in the Restated Certificate), and (B) the Capital Stock sold in accordance with the Purchase and Sale Agreement were the only Capital Stock outstanding.  [In the event that a portion of the aggregate consideration payable to the Participating Investor(s) and selling Key Holder is placed into escrow, the Purchase and Sale Agreement shall provide that (x) the portion of such consideration that is not placed in escrow (the “Initial Consideration”) shall be allocated in accordance with Sections 2.1 and 2.2 of Article IV(B) of the Restated Certificate as if the Initial Consideration were the only consideration payable in connection with such transfer, and (y) any additional consideration which becomes payable to the Participating Investor(s) and selling Key Holder upon release from escrow shall be allocated in accordance with Sections 2.1 and 2.2 of Article IV(B) of the Restated Certificate after taking into account the previous payment of the Initial Consideration as part of the same transfer.]
 
-2.2.4.=[Z/Sec/s2]
+2.2.4.=[Z/ol/s2]
 
 2.2.5.Ti=Purchase by Selling Key Holder; Deliveries
 
@@ -129,7 +132,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 2.2.6.sec=If any Proposed Key Holder Transfer is not consummated within [forty-five (45)] days after receipt of the Proposed Transfer Notice by the Company, the Key Holders proposing the Proposed Key Holder Transfer may not sell any Transfer Stock unless they first comply in full with each provision of this Section 2.  The exercise or election not to exercise any right by any Investor hereunder shall not adversely affect its right to participate in any other sales of Transfer Stock subject to this Subsection 2.2.
 
-2.2.=[Z/Sec/6]
+2.2.=[Z/ol/6]
 
 2.3.Ti=Effect of Failure to Comply
 
@@ -145,9 +148,9 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 2.3.3.sec=If any Key Holder purports to sell any Transfer Stock in contravention of the Right of Co-Sale (a “Prohibited Transfer”), each Investor who desires to exercise its Right of Co-Sale under Subsection 2.2 may, in addition to such remedies as may be available by law, in equity or hereunder, require such Key Holder to purchase from such Investor the type and number of shares of Capital Stock that such Investor would have been entitled to sell to the Prospective Transferee had the Prohibited Transfer been effected in compliance with the terms of Subsection 2.2.  The sale will be made on the same terms, including, without limitation, as provided in Subsection 2.2(d)(i) and the first sentence of Subsection 2.2(d)(ii), as applicable, and subject to the same conditions as would have applied had the Key Holder not made the Prohibited Transfer, except that the sale (including, without limitation, the delivery of the purchase price) must be made within ninety (90) days after the Investor learns of the Prohibited Transfer, as opposed to the timeframe proscribed in Subsection 2.2.  Such Key Holder shall also reimburse each Investor for any and all reasonable and documented out-of-pocket fees and expenses, including reasonable legal fees and expenses, incurred pursuant to the exercise or the attempted exercise of the Investor’s rights under Subsection 2.2.
 
-2.3.=[Z/Sec/3]
+2.3.=[Z/ol/3]
 
-2.=[Z/Sec/3]
+2.=[Z/ol/3]
 
 3.Ti=Exempt Transfers
 
@@ -167,7 +170,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 3.1.90.sec=provided that in the case of clause(s) [(a)], [(c)], [(d)] or [(e)], the Key Holder shall deliver prior written notice to the Investors of such pledge, gift or transfer and such shares of Transfer Stock shall at all times remain subject to the terms and restrictions set forth in this Agreement and such transferee shall, as a condition to such issuance, deliver a counterpart signature page to this Agreement as confirmation that such transferee shall be bound by all the terms and conditions of this Agreement as a Key Holder (but only with respect to the securities so transferred to the transferee), including the obligations of a Key Holder with respect to Proposed Key Holder Transfers of such Transfer Stock pursuant to Section 2[; and provided further in the case of any transfer pursuant to clause (a) or (d) above, that such transfer is made pursuant to a transaction in which there is no consideration actually paid for such transfer].
 
-3.1.=[Z/Sec/s5]
+3.1.=[Z/ol/s5]
 
 3.2.Ti=Exempted Offerings
 
@@ -177,7 +180,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 3.3.sec=Notwithstanding the foregoing, no Key Holder shall transfer any Transfer Stock to (a) any entity which, in the determination of the Company’s Board of Directors, directly or indirectly competes with the Company; or (b) any customer, distributor or supplier of the Company, if the Company’s Board of Directors should determine that such transfer would result in such customer, distributor or supplier receiving information that would place the Company at a competitive disadvantage with respect to such customer, distributor or supplier.
 
-3.=[Z/Sec/3]
+3.=[Z/ol/3]
 
 4.Ti=Legend
 
@@ -187,7 +190,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 4.90.sec=Each Key Holder agrees that the Company may instruct its transfer agent to impose transfer restrictions on the shares  notated with the legend referred to in this Section 4 above to enforce the provisions of this Agreement, and the Company agrees to promptly do so.  The legend shall be removed upon termination of this Agreement at the request of the holder.
 
-4.=[Z/Sec/s1]
+4.=[Z/ol/s1]
 
 5.Ti=Lock-Up
 
@@ -199,7 +202,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 5.2.sec=In order to enforce the foregoing covenant, the Company may impose stop-transfer instructions with respect to the shares of Capital Stock of each Key Holder (and transferees and assignees thereof) until the end of such restricted period.
 
-5.=[Z/Sec/2]
+5.=[Z/ol/2]
 
 6.Ti=Miscellaneous
 
@@ -225,15 +228,15 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 6.4.1.1.2.sec=WAIVER OF JURY TRIAL:  EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT, THE OTHER TRANSACTION DOCUMENTS, THE SECURITIES OR THE SUBJECT MATTER HEREOF OR THEREOF.  THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS.  THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS.  EACH PARTY HERETO HEREBY FURTHER WARRANTS AND REPRESENTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.
 
-6.4.1.1.=[Z/Sec/s2]
+6.4.1.1.=[Z/ol/s2]
 
 6.4.1.2.0.sec={m-}Alternative 1{-m}
 
 6.4.1.2.1.sec=Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party’s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the “AAA”), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.  The arbitration shall take place in [location], in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.  There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b) depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause.  Depositions shall be conducted in accordance with the [State] Code of Civil Procedure, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.  
 
-6.4.1.2.=[Z/Sec/s1]
+6.4.1.2.=[Z/ol/s1]
 
-6.4.1.=[Z/Sec/s2]
+6.4.1.=[Z/ol/s2]
 
 6.4.2.sec=(omitted if select Alternative 2)
 
@@ -241,7 +244,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 6.4.4.sec=Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of [_____] or any court of the [State][Commonwealth] of [state] having subject matter jurisdiction.
 
-6.4.=[Z/Sec/s4]
+6.4.=[Z/ol/s4]
 
 6.5.Ti=Notices
 
@@ -267,7 +270,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 6.8.5.sec=No waivers of or exceptions to any term, condition or provision of this Agreement, in any one or more instances, shall be deemed to be, or construed as, a further or continuing waiver of any such term, condition or provision.
 
-6.8.=[Z/Sec/s5]
+6.8.=[Z/ol/s5]
 
 6.9.Ti=Assignment of Rights
 
@@ -279,7 +282,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 6.9.4.sec=Except in connection with an assignment by the Company by operation of law to the acquirer of the Company, the rights and obligations of the Company hereunder may not be assigned under any circumstances.
 
-6.9.=[Z/Sec/s4]
+6.9.=[Z/ol/s4]
 
 6.10.Ti=Severability
 
@@ -321,7 +324,7 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 6.19.sec=Upon the execution and delivery of this Agreement by the Company, the Key Holders holding a majority in interest of the Transfer Stock and the holders of at least a majority in interest of the Capital Stock held by those Investors who are party to the Prior Agreement (measured before giving effect to any purchase of shares of Series [__] Preferred Stock by such Investors), the Prior Agreement automatically shall terminate and be of no further force and effect and shall be amended and restated in its entirety as set forth in this Agreement.
 
-6.=[Z/Sec/19]
+6.=[Z/ol/19]
 
 90.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Right of First Refusal and Co-Sale Agreement as of the date first written above.
 
@@ -336,9 +339,9 @@ Doc.Title=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 
 90.xlist={90.blist}
 
-90.=[Z/Sec/s5]
+90.=[Z/ol/s5]
 
-=[Z/Sec/6]
+=[Z/ol/6]
 
 DocBody={Doc}
 
@@ -355,10 +358,10 @@ Exh.1.90.1.sec=Dated as of the [__] day of [__________, _____].
 
 Exh.1.90.2.sec={Investor.Spouse.Sign.Block}
 
-Exh.1.90.=[Z/Sec/s2]
+Exh.1.90.=[Z/ol/s2]
 
 Exh.1.90.xlist={Exh.1.90.blist}
 
 Exh.1.xlist={Exh.1.blist}
 
-Exh.1.=[Z/Sec/s3]
+Exh.1.=[Z/ol/s3]

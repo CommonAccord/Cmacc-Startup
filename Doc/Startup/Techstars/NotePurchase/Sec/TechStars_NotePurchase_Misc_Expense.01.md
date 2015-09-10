@@ -2,4 +2,4 @@ Ti=Expenses
 
 sec={The_Company} and each {Purchaser} shall each bear its respective expenses and legal fees incurred with respect to {this_Agreement} and the transactions contemplated herein.
 
-=[Z/Sec/1]
+=[Z/ol/1]

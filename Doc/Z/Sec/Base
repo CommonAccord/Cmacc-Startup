@@ -59,87 +59,87 @@ Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
 
 blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 
-Note=This avoids the need for cluttering a list with a separate Z/Sec/0 for each section that has only a simple sec text. 
+Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text. 
 
-1.=[Z/Sec/SubSec]
+1.=[Z/ol/SubSec]
 
-2.=[Z/Sec/SubSec]
+2.=[Z/ol/SubSec]
 
-3.=[Z/Sec/SubSec]
+3.=[Z/ol/SubSec]
 
-4.=[Z/Sec/SubSec]
+4.=[Z/ol/SubSec]
 
-5.=[Z/Sec/SubSec]
+5.=[Z/ol/SubSec]
 
-6.=[Z/Sec/SubSec]
+6.=[Z/ol/SubSec]
 
-7.=[Z/Sec/SubSec]
+7.=[Z/ol/SubSec]
 
-8.=[Z/Sec/SubSec]
+8.=[Z/ol/SubSec]
 
-9.=[Z/Sec/SubSec]
+9.=[Z/ol/SubSec]
 
-10.=[Z/Sec/SubSec]
+10.=[Z/ol/SubSec]
 
-11.=[Z/Sec/SubSec]
+11.=[Z/ol/SubSec]
 
-12.=[Z/Sec/SubSec]
+12.=[Z/ol/SubSec]
 
-13.=[Z/Sec/SubSec]
+13.=[Z/ol/SubSec]
 
-14.=[Z/Sec/SubSec]
+14.=[Z/ol/SubSec]
 
-15.=[Z/Sec/SubSec]
+15.=[Z/ol/SubSec]
 
-16.=[Z/Sec/SubSec]
+16.=[Z/ol/SubSec]
 
-17.=[Z/Sec/SubSec]
+17.=[Z/ol/SubSec]
 
-18.=[Z/Sec/SubSec]
+18.=[Z/ol/SubSec]
 
-19.=[Z/Sec/SubSec]
+19.=[Z/ol/SubSec]
 
-20.=[Z/Sec/SubSec]
+20.=[Z/ol/SubSec]
 
-21.=[Z/Sec/SubSec]
+21.=[Z/ol/SubSec]
 
-22.=[Z/Sec/SubSec]
+22.=[Z/ol/SubSec]
 
-23.=[Z/Sec/SubSec]
+23.=[Z/ol/SubSec]
 
-24.=[Z/Sec/SubSec]
+24.=[Z/ol/SubSec]
 
-25.=[Z/Sec/SubSec]
+25.=[Z/ol/SubSec]
 
-26.=[Z/Sec/SubSec]
+26.=[Z/ol/SubSec]
 
-27.=[Z/Sec/SubSec]
+27.=[Z/ol/SubSec]
 
-28.=[Z/Sec/SubSec]
+28.=[Z/ol/SubSec]
 
-29.=[Z/Sec/SubSec]
+29.=[Z/ol/SubSec]
 
-30.=[Z/Sec/SubSec]
+30.=[Z/ol/SubSec]
 
-31.=[Z/Sec/SubSec]
+31.=[Z/ol/SubSec]
 
-32.=[Z/Sec/SubSec]
+32.=[Z/ol/SubSec]
 
-33.=[Z/Sec/SubSec]
+33.=[Z/ol/SubSec]
 
-34.=[Z/Sec/SubSec]
+34.=[Z/ol/SubSec]
 
-35.=[Z/Sec/SubSec]
+35.=[Z/ol/SubSec]
 
-36.=[Z/Sec/SubSec]
+36.=[Z/ol/SubSec]
 
-37.=[Z/Sec/SubSec]
+37.=[Z/ol/SubSec]
 
-38.=[Z/Sec/SubSec]
+38.=[Z/ol/SubSec]
 
-39.=[Z/Sec/SubSec]
+39.=[Z/ol/SubSec]
 
-40.=[Z/Sec/SubSec]
+40.=[Z/ol/SubSec]
 
 null=</i>
 

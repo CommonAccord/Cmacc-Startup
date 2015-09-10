@@ -12,4 +12,4 @@ IP.=[Startup/YC/SAFE/Sec/YC-Safe_Note_cRep_IP.01.md]
 
 Secs={Organization.Sec}<li>{Authorization.Sec}<li>{Breach.Sec}<li>{Consent.Sec}<li>{IP.Sec}
 
-=[Z/Sec/5]
+=[Z/ol/5]

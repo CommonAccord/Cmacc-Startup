@@ -14,7 +14,7 @@ Ti=DEFINITIONS
 
 1.6.sec="{Stock_Plan}" means {NameofEquityIncentivePlan}.
 
-1.=[Bit/Ssec_06]
+1.=[Z/ol/s6]
 
 2.Ti=BOARD COMPOSITION DEFINITIONS.
 
@@ -26,7 +26,7 @@ Ti=DEFINITIONS
 
 2.4.sec="{Common_Control_Holders}" means the Key Holders (who are then providing services to the company as employees) _(optional provision in previous parens)_.
 
-2.=[Z/Sec/s4]
+2.=[Z/ol/s4]
 
 
 3.Ti=TERM SHEET DEFINITIONS
@@ -41,7 +41,7 @@ Ti=DEFINITIONS
 
 3.5.sec="{Purchaser_Counsel_Reimbursement_Amount}" means ${PurchaserCounselReimbursementAmount}.
 
-3.=[Bit/Ssec_05]
+3.=[Z/ol/s5]
 
 4.Ti=RESULTING CAP TABLE DEFINITIONS
 
@@ -53,8 +53,8 @@ Ti=DEFINITIONS
 
 4.4.sec="{Unallocated_Post-Money_Option_Pool_Shares}" means {UnallocatedPost-MoneyOptionPool}. 
 
-4.=[Z/Sec/s4]
+4.=[Z/ol/s4]
 
-=[Z/Sec/4]
+=[Z/ol/4]
 
 DocBody={Doc}
