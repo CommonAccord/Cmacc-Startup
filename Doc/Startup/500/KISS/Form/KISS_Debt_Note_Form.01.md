@@ -1,4 +1,4 @@
-Olist=<ol><li>{Def.Sec}<li>{Conversion.Sec}<li>{iRep.Sec}<li>{iRep.Sec}<li>{Misc.Sec}<li>{Approval.Sec}</ol>
+Olist=<ol><li>{Def.Sec}<li>{Conversion.Sec}<li>{cRep.Sec}<li>{iRep.Sec}<li>{Misc.Sec}<li>{Approval.Sec}</ol>
 
 P1.Handle=Company
 
