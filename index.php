@@ -2,7 +2,7 @@
 
 DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
-DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Site-Startup');	// The repo home
+DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Cmacc-Startup');	// The repo home
 
 DEFINE('LANDING_MD', 'ZZZ/landing.md');	// The repo home
 
